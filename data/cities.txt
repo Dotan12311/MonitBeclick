@@ -2,18 +2,18 @@
 {
 Name:'תל אביב צפון  ',
 	NameE:'tel aviv north',
-PriceDayTo:'145' ,
-PriceNightTo:'150' ,
+PriceDayTo:'145 ' ,
+PriceNightTo:'150 ' ,
 PriceDayFrom:'155 ' ,
 PriceNightFrom:'165 '
 },
 {
 Name:'תל אביב  ',
 	NameE:'tel aviv',
-PriceDayTo:'135 ' ,
-PriceNightTo:'140 ' ,
+PriceDayTo:'135' ,
+PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'155 '
+PriceNightFrom:'155'
 },
 {
 Name:'רמת גן  ',
@@ -91,9 +91,9 @@ PriceNightFrom:' 185'
 Name:'הוד השרון ',
 	NameE:'hod haSharon',
 PriceDayTo:'160 ' ,
-PriceNightTo:'160 ' ,
+PriceNightTo:'165 ' ,
 PriceDayFrom:'165 ' ,
-PriceNightFrom:'165 '
+PriceNightFrom:'170 '
 },
 {
 Name:'רעננה ',
@@ -962,5 +962,5 @@ PriceNightTo: 135,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150'
 },
-שדגשדגשדג
+
 ]
