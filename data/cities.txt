@@ -967,7 +967,7 @@ Name:'קוד סודי מאוד',
 	NameE:'KodSodi',
 PriceDayTo:1700,
 PriceNightTo: 1500,
-PriceDayFrom:'2000' ,
+PriceDayFrom:2000 ,
 PriceNightFrom:'2000'
 },
 
