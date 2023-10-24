@@ -507,10 +507,10 @@ PriceNightFrom:'125'
 {
 Name:'רישפון',
 	NameE:'rishpon',
-PriceDayTo:'200' ,
-PriceNightTo:'210' ,
-PriceDayFrom:'215' ,
-PriceNightFrom:'220'
+PriceDayTo:200 ,
+PriceNightTo:210 ,
+PriceDayFrom:215 ,
+PriceNightFrom:220
 },
 {
 Name:'קרית מלאכי',
@@ -961,6 +961,14 @@ PriceDayTo:135,
 PriceNightTo: 135,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150'
+},
+{
+Name:'קוד סודי מאוד',
+	NameE:'KodSodi',
+PriceDayTo:1700,
+PriceNightTo: 1500,
+PriceDayFrom:'2000' ,
+PriceNightFrom:'2000'
 },
 
 ]

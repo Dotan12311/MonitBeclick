@@ -1,0 +1,367 @@
+<script>
+	(function(page, header, body) {
+		var asyncAccess = page.createElement('script');
+		asyncAccess.defer = true;
+		asyncAccess.src = 'https://plugin.access4u.co.il/Features.js';
+		asyncAccess.setAttribute('data-cfasync', true);
+		body ? body.appendChild(asyncAccess) : header.appendChild(asyncAccess);
+	})(document, document.header, document.body);
+
+	window.access4u = {
+		"sitekey": "6492d3dd45461834e09659d4",
+		"userId": "6492c91345461834e09653ae",
+		"feature": "ALL_FEATURES",
+		"Menulang": "EN",
+		"domains": { "js": "https://scripttest.ngf.co.il/" }
+	};
+
+	let city = document.getElementById("form-field-test");
+
+	function NorthTlvCheckC() {
+		if (city.value == 'תל אביב') {
+			console.log("Tel Avivv");
+			var cityIDD = document.getElementsByClassName('elementor-field-input-description-test');
+			cityIDD[0].style.display = 'block';
+			if (cityIDD.length > 0) {
+				cityIDD[0].innerHTML = 'צפונה מארולוזורוב יש לרשום תל אביב צפון';
+				cityIDD[0].style.fontWeight = 'bold';
+				cityIDD[0].style.fontSize = '16px';
+				cityIDD[0].style.color = '#42f598';
+			}
+		} else {
+			console.log("Tel Avivv else");
+			var cityIDD = document.getElementsByClassName('elementor-field-input-description-test');
+			if (cityIDD.length > 0) {
+				cityIDD[0].innerHTML = '';
+			}
+		}
+	}
+
+	let all_data = document.getElementById("all_data");
+	let all_data_2 = document.getElementById("all_data_2");
+	let title_s = document.getElementById("title_s");
+	let no_data = document.getElementById("no_data");
+	let lotdata = document.getElementById("lotdata");
+
+	var amehiron = document.getElementById("auto-mehir");
+	var formID = document.getElementById("form-field-clf16847578641002");
+	var timeFormID = document.getElementById("form-field-clf16847456211002");
+	var ShabatCheck = document.getElementById("form-field-clf16847578301002");
+
+	function NorthTlvCheck() {
+		if (formID.value == 'תל אביב') {
+			console.log("Tel Avivv");
+			var formIDD = document.getElementsByClassName('elementor-field-input-description-clf16847578641002');
+			formIDD[0].style.display = 'block';
+			if (formIDD.length > 0) {
+				formIDD[0].innerHTML = 'צפונה מארולוזורוב יש לרשום תל אביב צפון';
+				formIDD[0].style.fontWeight = 'bold';
+				formIDD[0].style.fontSize = '16px';
+				formIDD[0].style.color = '#42f598';
+			}
+		} else {
+			var formIDD = document.getElementsByClassName('elementor-field-input-description-clf16847578641002');
+			console.log("Tel Avivv else");
+			if (formIDD.length > 0) {
+				formIDD[0].innerHTML = '';
+			}
+		}
+	}
+
+	// Function to detect daytime or nighttime
+	function detectDaytimeOrNighttime(enteredTime) {
+		var enteredHours = parseInt(enteredTime.split(":")[0]);
+
+		if (enteredHours >= 20 || (enteredHours >= 0 && enteredHours < 6)) {
+			return 'NightTime';
+		} else {
+			return 'DayTime';
+		}
+	}
+
+	// Function to handle actions for DayTime
+	function handleDaytimeActions() {
+		console.log('Daytime detected');
+
+		if (formID.value !== '') {
+			var cty = all_city.find(function (city) {
+				return (
+					city.Name.trim() == formID.value.trim() ||
+					city.NameE.trim() == formID.value.trim().toLowerCase()
+				);
+			});
+
+			if (cty) {
+				var h2Replacement = document.createElement('h1');
+				h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default');
+				h2Replacement.style.fontSize = '24px';
+				var text1 = document.createTextNode('מחיר הנסיעה');
+				var br = document.createElement('br');
+				var text2 = document.createTextNode(cty.PriceDayTo.trim() + '₪');
+				var textSpace = document.createTextNode(' | ');
+				var text22 = document.createTextNode("(יום)");
+				var br2 = document.createElement('br');
+				var mAm = document.createElement('span');
+				mAm.textContent = 'כולל מע"מ';
+				mAm.style.fontSize = '12px';
+				mAm.style.lineHeight = '7px';
+				h2Replacement.appendChild(text1);
+				h2Replacement.appendChild(br);
+				h2Replacement.appendChild(text2);
+				h2Replacement.appendChild(textSpace);
+				h2Replacement.appendChild(text22);
+				h2Replacement.appendChild(br2);
+				h2Replacement.appendChild(mAm);
+				amehiron.innerHTML = '';
+				amehiron.appendChild(h2Replacement);
+				console.log("City Price: " + cty.PriceDayTo.trim());
+			}
+		}
+
+		amehiron.style.display = "block";
+	}
+
+	// Function to handle actions for NightTime
+	function handleNighttimeActions() {
+		console.log('Nighttime detected');
+		if (formID.value !== '') {
+			var cty = all_city.find(function (city) {
+				return (
+					city.Name.trim() == formID.value.trim() ||
+					city.NameE.trim() == formID.value.trim().toLowerCase()
+				);
+			});
+
+			if (cty) {
+				var h2Replacement = document.createElement('h1');
+				h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default');
+				h2Replacement.style.fontSize = '24px';
+				var text1 = document.createTextNode('מחיר הנסיעה');
+				var br = document.createElement('br');
+				var text2 = document.createTextNode(cty.PriceNightTo.trim() + '₪');
+				var textSpace = document.createTextNode(' | ');
+				var text22 = document.createTextNode("(לילה)");
+				var br2 = document.createElement('br');
+				var mAm = document.createElement('span');
+				mAm.textContent = 'כולל מע"מ';
+				mAm.style.fontSize = '12px';
+				mAm.style.lineHeight = '7px';
+				h2Replacement.appendChild(text1);
+				h2Replacement.appendChild(br);
+				h2Replacement.appendChild(text2);
+				h2Replacement.appendChild(textSpace);
+				h2Replacement.appendChild(text22);
+				h2Replacement.appendChild(br2);
+				h2Replacement.appendChild(mAm);
+				amehiron.innerHTML = '';
+				amehiron.appendChild(h2Replacement);
+				console.log("City Price: " + cty.PriceNightTo.trim());
+			}
+		}
+
+		amehiron.style.display = "block";
+	}
+
+	function detectDayOfWeek(dateValue) {
+		var parts = dateValue.split("/");
+		var month = parseInt(parts[0]);
+		var day = parseInt(parts[1]);
+		var year = parseInt(parts[2]);
+
+		var date = new Date(year, month - 1, day);
+
+		return date.getDay();
+	}
+
+	function detectShabbat(dateValue, timeValue) {
+		var enteredHours = parseInt(timeValue.split(":")[0]);
+		var enteredMinutes = parseInt(timeValue.split(":")[1]);
+
+		if (dateValue.trim() === '' || timeValue.trim() === '') {
+			console.log('Date and time fields must not be empty');
+			return;
+		}
+
+		var dateParts = dateValue.split('-');
+		if (dateParts.length !== 3) {
+			console.log('Invalid date format. Please use "YYYY-mm-dd"');
+			return;
+		}
+
+		var year = parseInt(dateParts[0]);
+		var month = parseInt(dateParts[1]);
+		var day = parseInt(dateParts[2]);
+
+		if (isNaN(year) || isNaN(month) || isNaN(day)) {
+			console.log('Invalid date format. Please use "YYYY-mm-dd"');
+			return;
+	}
+
+	var date = new Date(year, month - 1, day);
+	var dayOfWeek = date.getDay();
+	var timePeriod = detectDaytimeOrNighttime(timeValue);
+	var cty = all_city.find(function (city) {
+		return (
+			city.Name.trim() == formID.value.trim() ||
+			city.NameE.trim() == formID.value.trim().toLowerCase()
+		);
+	});
+
+	if (dayOfWeek === 5 && (enteredHours > 18 || (enteredHours === 18))) {
+		console.log('Erev Shabbat');
+		if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default');
+			h2Replacement.style.fontSize = '24px';
+			var text1 = document.createTextNode('מחיר הנסיעה');
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(Math.round(cty.PriceNightTo * 1.13) + '₪');
+			var textSpace = document.createTextNode(' | ');
+			var text22 = document.createTextNode("(שבת)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span');
+			mAm.textContent = 'כולל מע"מ';
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			h2Replacement.appendChild(text1);
+			h2Replacement.appendChild(br);
+			h2Replacement.appendChild(text2);
+			h2Replacement.appendChild(textSpace);
+			h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2);
+			h2Replacement.appendChild(mAm);
+			amehiron.innerHTML = '';
+			amehiron.appendChild(h2Replacement);
+			console.log("City Price: " + Math.round(cty.PriceNightTo * 1.13));
+		}
+	} else if (dayOfWeek === 6 && (enteredHours >= 0 && enteredHours < 10)) {
+		console.log('Shabbat');
+		if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default');
+			h2Replacement.style.fontSize = '24px';
+			var text1 = document.createTextNode('מחיר הנסיעה');
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(Math.round(cty.PriceNightTo * 1.13) + '₪');
+			var textSpace = document.createTextNode(' | ');
+			var text22 = document.createTextNode("(שבת)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span');
+			mAm.textContent = 'כולל מע"מ';
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			h2Replacement.appendChild(text1);
+			h2Replacement.appendChild(br);
+			h2Replacement.appendChild(text2);
+			h2Replacement.appendChild(textSpace);
+			h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2);
+			h2Replacement.appendChild(mAm);
+			amehiron.innerHTML = '';
+			amehiron.appendChild(h2Replacement);
+			console.log("City Price: " + cty.PriceNightTo * 1.13 + ', Shabbat: ' + Math.round(cty.PriceNightTo * 1.13));
+		}
+	}
+}
+
+if (formID && timeFormID && ShabatCheck) {
+	formID.addEventListener('blur', function () {
+		if (formID.value !== '') {
+			console.log('checking!');
+			NorthTlvCheck();
+			console.log('Field is filled: ' + formID.value);
+			var enteredTime = timeFormID.value;
+			var timePeriod = detectDaytimeOrNighttime(enteredTime);
+
+			if (timePeriod === 'NightTime') {
+				handleNighttimeActions();
+			} else {
+				handleDaytimeActions();
+			}
+
+			detectShabbat(ShabatCheck.value, enteredTime);
+		} else {
+			console.log('Field is empty');
+		}
+
+		timeFormID.addEventListener('input', function () {
+			if (formID.value !== '') {
+				NorthTlvCheck();
+				var updatedTime = timeFormID.value;
+				var updatedTimePeriod = detectDaytimeOrNighttime(updatedTime);
+
+				if (updatedTimePeriod === 'NightTime') {
+					handleNighttimeActions();
+				} else {
+					handleDaytimeActions();
+				}
+
+				detectShabbat(ShabatCheck.value, updatedTime);
+			}
+
+			ShabatCheck.addEventListener('input', function () {
+				if (formID.value !== '' && timeFormID.value !== '') {
+					var updatedDate = ShabatCheck.value;
+					var updatedTime = timeFormID.value;
+					var enteredTime = timeFormID.value;
+					var timePeriod = detectDaytimeOrNighttime(updatedTime);
+
+					if (timePeriod === 'NightTime') {
+						handleNighttimeActions();
+					} else {
+						handleDaytimeActions();
+					}
+
+					detectShabbat(updatedDate, updatedTime);
+				}
+			});
+		});
+	});
+}
+
+let to_day = document.getElementById("to_day");
+let to_night = document.getElementById("to_night");
+let from_day = document.getElementById("from_day");
+let from_night = document.getElementById("from_night");
+
+let to_day_s = document.getElementById("to_day_s");
+let to_night_s = document.getElementById("to_night_s");
+let from_day_s = document.getElementById("from_day_s");
+let from_night_s = document.getElementById("from_night_s");
+let no_data1 = document.getElementById("no_data");
+let check_data = document.getElementById("check_data");
+
+check_data.addEventListener('click', function () {
+	console.log(city.value);
+
+	let i, flag = false;
+	for (i = 0; i < all_city.length; i++) {
+		if (all_city[i].Name.trim() == city.value.trim() || (typeof all_city[i].NameE === 'string' && all_city[i].NameE.trim() === city.value.trim().toLowerCase())) {
+			NorthTlvCheckC();
+			all_data.style.display = "block";
+			all_data_2.style.display = "block";
+			title_s.style.display = "block";
+			lotdata.style.display = "block";
+			no_data1.style.display = "none";
+			to_day.innerHTML = all_city[i].PriceDayTo;
+			to_night.innerHTML = all_city[i].PriceNightTo;
+			from_day.innerHTML = all_city[i].PriceDayFrom;
+			from_night.innerHTML = all_city[i].PriceNightFrom;
+
+			to_day_s.innerHTML = (parseInt(Math.round(all_city[i].PriceDayTo) * 1.13));
+			to_night_s.innerHTML = (parseInt(Math.round(all_city[i].PriceNightTo) * 1.13));
+			from_day_s.innerHTML = (parseInt(Math.round(all_city[i].PriceDayFrom) * 1.13));
+			from_night_s.innerHTML = (parseInt(Math.round(all_city[i].PriceNightFrom) * 1.13));
+			flag = true;
+			break;
+		}
+	}
+	if (!flag) {
+		all_data.style.display = "none";
+		all_data_2.style.display = "none";
+		title_s.style.display = "none";
+		no_data1.style.display = "block";
+	}
+})
+
+</script>
