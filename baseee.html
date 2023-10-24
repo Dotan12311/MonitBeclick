@@ -1,0 +1,1368 @@
+<script> (function(page, header, body) { var asyncAccess = page.createElement('script');asyncAccess.defer = true; asyncAccess.src = 'https://plugin.access4u.co.il/Features.js'; asyncAccess.setAttribute('data-cfasync', true ); body? body.appendChild(asyncAccess) : header.appendChild(asyncAccess); }) (document, document.header, document.body); window.access4u = { "sitekey": "6492d3dd45461834e09659d4", "userId": "6492c91345461834e09653ae","feature": "ALL_FEATURES", "Menulang": "EN", "domains": { "js": "https://scripttest.ngf.co.il/"} }; </script>
+
+
+<script>
+	
+	let all_city=
+		[
+{
+Name:'תל אביב צפון  ',
+	NameE:'tel aviv north',
+PriceDayTo:'140' ,
+PriceNightTo:'145' ,
+PriceDayFrom:'155 ' ,
+PriceNightFrom:'165 '
+},
+{
+Name:'תל אביב  ',
+	NameE:'tel aviv',
+PriceDayTo:'135 ' ,
+PriceNightTo:'140 ' ,
+PriceDayFrom:'150' ,
+PriceNightFrom:'155 '
+},
+{
+Name:'רמת גן  ',
+	NameE:'ramat gan',
+PriceDayTo:'135 ' ,
+PriceNightTo:'140 ' ,
+PriceDayFrom:'155 ' ,
+PriceNightFrom:'165'
+},
+{
+Name:'גבעתיים ',
+	NameE:'givatayim',
+PriceDayTo:'140 ' ,
+PriceNightTo:'145 ' ,
+PriceDayFrom:'150 ' ,
+PriceNightFrom:'160 '
+},
+{
+Name:'בני ברק ',
+	NameE:'bnei brak',
+PriceDayTo:'140 ' ,
+PriceNightTo:'145 ' ,
+PriceDayFrom:'150 ' ,
+PriceNightFrom:'150 '
+},
+{
+Name:'גבעת שמואל ',
+	NameE:"giv'at shmuel",
+PriceDayTo:'140 ' ,
+PriceNightTo:'140 ' ,
+PriceDayFrom:'150 ' ,
+PriceNightFrom:'150 '
+},
+{
+Name:'פתח תקוה ',
+	NameE:'petah tiqva',
+PriceDayTo:'130' ,
+PriceNightTo:'140 ' ,
+PriceDayFrom:'140' ,
+PriceNightFrom:'145'
+},
+{
+Name:'ראש העין ',
+	NameE:"rosh ha'ayin",
+PriceDayTo:'140 ' ,
+PriceNightTo:'150' ,
+PriceDayFrom:'155 ' ,
+PriceNightFrom:' 160'
+},
+{
+Name:'גני תקווה ',
+	NameE:'ganei tikva',
+PriceDayTo:'125 ' ,
+PriceNightTo:' 130' ,
+PriceDayFrom:'135 ' ,
+PriceNightFrom:'140 '
+},
+{
+Name:'הרצליה ',
+	NameE:'herzliya',
+PriceDayTo:' 170' ,
+PriceNightTo:'180 ' ,
+PriceDayFrom:'185 ' ,
+PriceNightFrom:'185 '
+},
+{
+Name:'רמת השרון ',
+	NameE:'ramat hasharon',
+PriceDayTo:'175 ' ,
+PriceNightTo:'180 ' ,
+PriceDayFrom:'185 ' ,
+PriceNightFrom:' 185'
+},
+{
+Name:'הוד השרון ',
+	NameE:'hod haSharon',
+PriceDayTo:'160 ' ,
+PriceNightTo:'160 ' ,
+PriceDayFrom:'165 ' ,
+PriceNightFrom:'165 '
+},
+{
+Name:'רעננה ',
+	NameE:"ra'anana",
+PriceDayTo:'170 ' ,
+PriceNightTo:' 180' ,
+PriceDayFrom:'180 ' ,
+PriceNightFrom:'185 '
+},
+{
+Name:'כפר סבא ',
+	NameE:'kfar sava',
+PriceDayTo:'170 ' ,
+PriceNightTo:' 180' ,
+PriceDayFrom:'180 ' ,
+PriceNightFrom:'185 '
+},
+{
+Name:'נתניה ',
+	NameE:'netania',
+PriceDayTo:'230 ' ,
+PriceNightTo:' 240' ,
+PriceDayFrom:'250 ' ,
+PriceNightFrom:'250 '
+},
+{
+Name:'חדרה ',
+	NameE:'hadera',
+PriceDayTo:' 280' ,
+PriceNightTo:' 285',
+PriceDayFrom:'285 ' ,
+PriceNightFrom:'285 '
+},
+{
+Name:'קיסריה ',
+	NameE:'caesarea',
+PriceDayTo:'310 ' ,
+PriceNightTo:'310 ' ,
+PriceDayFrom:'320 ' ,
+PriceNightFrom:'320 '
+},
+{
+Name:'בנימינה ',
+	NameE:'binyamina',
+PriceDayTo:'315' ,
+PriceNightTo:'320 ' ,
+PriceDayFrom:'330 ' ,
+PriceNightFrom:'345 '
+},
+			
+			{
+Name:'גבעת עדה ',
+	NameE:'givat ada',
+PriceDayTo:'315' ,
+PriceNightTo:'320 ' ,
+PriceDayFrom:'330 ' ,
+PriceNightFrom:'345 '
+},
+{
+Name:'זיכרון יעקב',
+	NameE:"zikhron ya'akov",
+PriceDayTo:'330' ,
+PriceNightTo:'330' ,
+PriceDayFrom:'330' ,
+PriceNightFrom:'340'
+},
+{
+Name:'חיפה',
+	NameE:'haifa',
+PriceDayTo:'425' ,
+PriceNightTo:'425' ,
+PriceDayFrom:'435' ,
+PriceNightFrom:'435'
+},
+{
+Name:'עכו',
+	NameE:'acre',
+PriceDayTo:'460' ,
+PriceNightTo:'475' ,
+PriceDayFrom:'480' ,
+PriceNightFrom:'500'
+},
+{
+Name:'נהריה',
+	NameE:'nahariya',
+PriceDayTo:'495' ,
+PriceNightTo:'520' ,
+PriceDayFrom:'500' ,
+PriceNightFrom:'540'
+},
+{
+Name:'קרית ענבים',
+	NameE:'kiryat anavim',
+PriceDayTo:'235' ,
+PriceNightTo:'245' ,
+PriceDayFrom:'245' ,
+PriceNightFrom:'260'
+},
+{
+Name:'קרית שמונה',
+	NameE:'kiryat shmona',
+PriceDayTo: '745' ,
+PriceNightTo:'745' ,
+PriceDayFrom:'745' ,
+PriceNightFrom:'765'
+},
+{
+Name:'קרית חיים',
+	NameE:'kiryat haim',
+PriceDayTo:'425' ,
+PriceNightTo:'425' ,
+PriceDayFrom:'435' ,
+PriceNightFrom:'435'
+},
+{
+Name:'קרית מוצקין',
+	NameE:'kiryat motzkin',
+PriceDayTo:'425' ,
+PriceNightTo:'425' ,
+PriceDayFrom:'435' ,
+PriceNightFrom:'435'
+},
+{
+Name:'קרית אתא',
+	NameE:'kiryat ata',
+PriceDayTo:'425' ,
+PriceNightTo:'425' ,
+PriceDayFrom:435 ,
+PriceNightFrom:435
+},
+{
+Name:'קרית גת',
+	NameE:'kiryat gat',
+PriceDayTo:'290' ,
+PriceNightTo:'320' ,
+PriceDayFrom:'330' ,
+PriceNightFrom:'345'
+},
+{
+Name:'אשקלון',
+	NameE:'ashkelon',
+PriceDayTo:'310' ,
+PriceNightTo:'330' ,
+PriceDayFrom:'320' ,
+PriceNightFrom:'330'
+},
+{
+Name:'אשדוד',
+	NameE:'ashdod',
+PriceDayTo:230 ,
+PriceNightTo:'250' ,
+PriceDayFrom:'235' ,
+PriceNightFrom:'250'
+},
+{
+Name:'ראשון לציון',
+	NameE:'rishon le zion',
+PriceDayTo:'140' ,
+PriceNightTo:'140' ,
+PriceDayFrom:'150' ,
+PriceNightFrom:'150'
+},
+{
+Name:'בת ים',
+	NameE:'bat yam',
+PriceDayTo:'135' ,
+PriceNightTo:'140' ,
+PriceDayFrom:'150' ,
+PriceNightFrom:'155'
+},
+{
+Name:'נס ציונה',
+	NameE:'nes-ziona',
+PriceDayTo:'155' ,
+PriceNightTo:'160' ,
+PriceDayFrom:'160' ,
+PriceNightFrom:'165'
+},
+{
+Name:'רחובות',
+	NameE:'rehovot',
+PriceDayTo:'140' ,
+PriceNightTo:'145' ,
+PriceDayFrom:'150' ,
+PriceNightFrom:'155'
+},
+{
+Name:'באר שבע',
+	NameE:'beer-sheba',
+PriceDayTo:'420' ,
+PriceNightTo:'460' ,
+PriceDayFrom:'420' ,
+PriceNightFrom:'475'
+},
+{
+Name:'אילת',
+	NameE:'eilat',
+PriceDayTo:'1450' ,
+PriceNightTo:'1550' ,
+PriceDayFrom:'1500' ,
+PriceNightFrom:'1650'
+},
+{
+Name:'פרדס חנה כרכור',
+	NameE:'pardes hanna karkur',
+PriceDayTo:'310' ,
+PriceNightTo:'310' ,
+PriceDayFrom:'310' ,
+PriceNightFrom:'310'
+},
+{
+Name:'עתלית',
+	NameE:'atlit',
+PriceDayTo:'390' ,
+PriceNightTo:'400' ,
+PriceDayFrom:'415' ,
+PriceNightFrom:'415'
+},
+{
+Name:'ירושלים',
+	NameE:'jerusalem',
+PriceDayTo:'240' ,
+PriceNightTo:'240' ,
+PriceDayFrom:'250' ,
+PriceNightFrom:'250'
+},
+{
+Name:'מודיעין',
+	NameE:"modi'in",
+PriceDayTo:'140' ,
+PriceNightTo:'150' ,
+PriceDayFrom:'150' ,
+PriceNightFrom:'150'
+},
+{
+Name:'בית שמש',
+	NameE:'beth shemesh',
+PriceDayTo:'220' ,
+PriceNightTo:'225' ,
+PriceDayFrom:'230' ,
+PriceNightFrom:'240'
+},
+{
+Name:'בית אל',
+	NameE:'beit el',
+PriceDayTo:'355' ,
+PriceNightTo:'400' ,
+PriceDayFrom:'355' ,
+PriceNightFrom:'400'
+},
+{
+Name:'בית אלפא',
+	NameE:'beit alfa',
+PriceDayTo:'490' ,
+PriceNightTo:'510' ,
+PriceDayFrom:'490' ,
+PriceNightFrom:'510'
+},
+{
+Name:'ירושלים מעלה אדומים',
+	NameE:"jerusalem ma'ale adumim",
+PriceDayTo:'310' ,
+PriceNightTo:'310' ,
+PriceDayFrom:320 ,
+PriceNightFrom:'340'
+},
+{
+Name:'מעלות',
+	NameE:'maalot',
+PriceDayTo:'535' ,
+PriceNightTo:550 ,
+PriceDayFrom:'545' ,
+PriceNightFrom:'560'
+},
+{
+Name:'גדרה',
+	NameE:'gedera',
+PriceDayTo:'175' ,
+PriceNightTo:'185' ,
+PriceDayFrom:'190' ,
+PriceNightFrom:'200'
+},
+{
+Name:'גן יבנה',
+	NameE:'gan yavne',
+PriceDayTo:'220' ,
+PriceNightTo:'240' ,
+PriceDayFrom:'230' ,
+PriceNightFrom:'255'
+},
+{
+Name:'יבנה',
+	NameE:'yavneh',
+PriceDayTo:'175' ,
+PriceNightTo:'185' ,
+PriceDayFrom:'185' ,
+PriceNightFrom:'190'
+},
+{
+Name:'רמלה',
+	NameE:'ramla',
+PriceDayTo:'125' ,
+PriceNightTo:'125' ,
+PriceDayFrom:'125' ,
+PriceNightFrom:'130'
+},
+{
+Name:'לוד',
+	NameE:'lod',
+PriceDayTo:'95' ,
+PriceNightTo:'100' ,
+PriceDayFrom:'90' ,
+PriceNightFrom:'115'
+},
+{
+Name:'שוהם',
+	NameE:'shoham',
+PriceDayTo:'100' ,
+PriceNightTo:'110' ,
+PriceDayFrom:'115' ,
+PriceNightFrom:'115'
+},
+{
+Name:'אור יהודה',
+	NameE:'or yehuda',
+PriceDayTo:'100' ,
+PriceNightTo:'115' ,
+PriceDayFrom:'115' ,
+PriceNightFrom:'130'
+},
+{
+Name:'קרית אונו',
+	NameE:'kiryat ono',
+PriceDayTo:'130' ,
+PriceNightTo:'140' ,
+PriceDayFrom:'140' ,
+PriceNightFrom:'145'
+},
+{
+Name:'יהוד',
+	NameE:'yehud',
+PriceDayTo:'100' ,
+PriceNightTo:'110' ,
+PriceDayFrom:'100' ,
+PriceNightFrom:'110'
+},
+{
+Name:'אזור',
+	NameE:'azor',
+PriceDayTo:'120' ,
+PriceNightTo:'120' ,
+PriceDayFrom:'120' ,
+PriceNightFrom:'120'
+},
+{
+Name:'טבריה',
+	NameE:'tiberias',
+PriceDayTo:'550' ,
+PriceNightTo:'590' ,
+PriceDayFrom:'620' ,
+PriceNightFrom:'620'
+},
+{
+Name:'כפר יונה',
+	NameE:'kfar yona',
+PriceDayTo:'255' ,
+PriceNightTo:'280' ,
+PriceDayFrom:'255' ,
+PriceNightFrom:'280'
+},
+{
+Name:'תל מונד',
+	NameE:'tel mond',
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:'250' ,
+PriceNightFrom:'250'
+},
+{
+Name:'כפר שמריהו',
+	NameE:'kfar shmaryahu',
+PriceDayTo:'180' ,
+PriceNightTo:'180' ,
+PriceDayFrom:185 ,
+PriceNightFrom:185
+},
+{
+Name:'פרדסיה',
+	NameE:'pardesia',
+PriceDayTo:'240' ,
+PriceNightTo:'250' ,
+PriceDayFrom:250 ,
+PriceNightFrom:260
+},
+{
+Name:'רינתיה',
+	NameE:'rinatya',
+PriceDayTo:'120' ,
+PriceNightTo:'130' ,
+PriceDayFrom:'130' ,
+PriceNightFrom:'130'
+},
+{
+Name:'אחיסמך',
+	NameE:'ahisamakh',
+PriceDayTo:'120' ,
+PriceNightTo:'125' ,
+PriceDayFrom:'125' ,
+PriceNightFrom:'125'
+},
+{
+Name:'רישפון',
+	NameE:'rishpon',
+PriceDayTo:'200' ,
+PriceNightTo:'210' ,
+PriceDayFrom:'215' ,
+PriceNightFrom:'220'
+},
+{
+Name:'קרית מלאכי',
+	NameE:'kiryat Malakhi',
+PriceDayTo:'250' ,
+PriceNightTo:'250' ,
+PriceDayFrom:255 ,
+PriceNightFrom:'260'
+},
+{
+Name:'בני עיש',
+	NameE:'bnei ayish',
+PriceDayTo:185 ,
+PriceNightTo:'210' ,
+PriceDayFrom:'230' ,
+PriceNightFrom:'240'
+},
+{
+Name:'כפר ורבורג',
+	NameE:'kfar warburg',
+PriceDayTo:'240' ,
+PriceNightTo:'260' ,
+PriceDayFrom:'245' ,
+PriceNightFrom:'265'
+},
+{
+Name:'מבקיעים',
+	NameE:"mavki'im",
+PriceDayTo:'335' ,
+PriceNightTo:'360' ,
+PriceDayFrom:'335' ,
+PriceNightFrom:'360'
+},
+{
+Name:'מבשרת ציון',
+	NameE:'mevasseret zion',
+PriceDayTo:'225' ,
+PriceNightTo:'245' ,
+PriceDayFrom:'230' ,
+PriceNightFrom:'245'
+},
+{
+Name:'שדרות',
+	NameE:'sderot',
+PriceDayTo:'350' ,
+PriceNightTo:'425' ,
+PriceDayFrom:'360' ,
+PriceNightFrom:'425'
+},
+{
+Name:'ערד',
+	NameE:'arad',
+PriceDayTo:'540' ,
+PriceNightTo:'620' ,
+PriceDayFrom:'550' ,
+PriceNightFrom:'630'
+},
+{
+Name:'נתיבות',
+	NameE:'netivot',
+PriceDayTo:'365' ,
+PriceNightTo:'435' ,
+PriceDayFrom:'370' ,
+PriceNightFrom:'440'
+},
+{
+Name:'אופקים',
+	NameE:'ofaqim',
+PriceDayTo:'435' ,
+PriceNightTo:'495' ,
+PriceDayFrom:'435' ,
+PriceNightFrom:'495'
+},
+{
+Name:'מיתר',
+	NameE:'metar',
+PriceDayTo:'420' ,
+PriceNightTo:'440' ,
+PriceDayFrom:'420' ,
+PriceNightFrom:'440'
+},
+{
+Name:'יד בנימין',
+	NameE:'yad binyamin',
+PriceDayTo:185 ,
+PriceNightTo:'205' ,
+PriceDayFrom:'180' ,
+PriceNightFrom:'205'
+},
+{
+Name:'מזכרת בתיה',
+	NameE:'mazkeret batya',
+PriceDayTo:'155' ,
+PriceNightTo:'170' ,
+PriceDayFrom:'180' ,
+PriceNightFrom:'185'
+},
+{
+Name:'קרית עקרון',
+	NameE:'kiryat ekron',
+PriceDayTo:'145' ,
+PriceNightTo:'155' ,
+PriceDayFrom:'155' ,
+PriceNightFrom:'170'
+},
+{
+Name:'באר יעקב',
+	NameE:"be'er ya'akov",
+PriceDayTo:'140' ,
+PriceNightTo:'140' ,
+PriceDayFrom:'145' ,
+PriceNightFrom:'150'
+},
+{
+Name:'צור יגאל',
+	NameE:"tzur yig'al",
+PriceDayTo:215 ,
+PriceNightTo:230 ,
+PriceDayFrom:'220' ,
+PriceNightFrom:'240'
+},
+{
+Name:'צור יצחק',
+	NameE:'tzur yitzhak',
+PriceDayTo: 245,
+PriceNightTo:275 ,
+PriceDayFrom:'245' ,
+PriceNightFrom:'280'
+},
+{
+Name:'טירה',
+	NameE:'tira',
+PriceDayTo:250 ,
+PriceNightTo:265 ,
+PriceDayFrom:260 ,
+PriceNightFrom:'285'
+},
+
+{
+Name:'סכנין',
+	NameE:'sakhnin',
+PriceDayTo:485 ,
+PriceNightTo: 485,
+PriceDayFrom:'485' ,
+PriceNightFrom:'485'
+},
+
+{
+Name:'אלפי מנשה',
+	NameE:'alfei menashe',
+PriceDayTo:220 ,
+PriceNightTo: 235,
+PriceDayFrom:'220' ,
+PriceNightFrom:'235'
+},
+
+{
+Name:'חריש',
+	NameE:'harish',
+PriceDayTo:320 ,
+PriceNightTo: 320,
+PriceDayFrom:'320' ,
+PriceNightFrom:'320'
+},
+
+{
+Name:'יקום',
+	NameE:'yakum',
+PriceDayTo:215 ,
+PriceNightTo:235 ,
+PriceDayFrom:'220' ,
+PriceNightFrom:'240'
+},
+
+{
+Name:'אודים',
+	NameE:'udim',
+PriceDayTo: 235,
+PriceNightTo:245 ,
+PriceDayFrom:240 ,
+PriceNightFrom:'250'
+},
+
+{
+Name:'תל יצחק',
+	NameE:'tel yitzhak',
+PriceDayTo:240 ,
+PriceNightTo: 245,
+PriceDayFrom:'240' ,
+PriceNightFrom:'255'
+},
+
+{
+Name:'בני ציון',
+	NameE:'bnei zion',
+PriceDayTo:220 ,
+PriceNightTo:240 ,
+PriceDayFrom:'220' ,
+PriceNightFrom:'245'
+},
+
+{
+Name:'בית יהושע',
+	NameE:'beit yehoshua',
+PriceDayTo:240 ,
+PriceNightTo: 250,
+PriceDayFrom:'250' ,
+PriceNightFrom:'250'
+},
+
+{
+Name:'שפיים',
+	NameE:'shefayim',
+PriceDayTo: 220,
+PriceNightTo:235 ,
+PriceDayFrom:'220' ,
+PriceNightFrom:'245'
+},
+
+{
+Name:'כפר ויתקין',
+	NameE:'kfar vitkin',
+PriceDayTo:260 ,
+PriceNightTo:280 ,
+PriceDayFrom:'270' ,
+PriceNightFrom:'285'
+},
+
+{
+Name:'רמות השבים',
+	NameE:'ramot haShavim',
+PriceDayTo:170 ,
+PriceNightTo: 180,
+PriceDayFrom:'175' ,
+PriceNightFrom:'185'
+},
+
+{
+Name:'כפר מלל',
+	NameE:'kfar malal',
+PriceDayTo:165 ,
+PriceNightTo: 175,
+PriceDayFrom:'170' ,
+PriceNightFrom:'175'
+},
+
+{
+Name:'בית ברל',
+	NameE:'beit berl',
+PriceDayTo:195 ,
+PriceNightTo:200 ,
+PriceDayFrom:'195' ,
+PriceNightFrom:'205'
+},
+
+{
+Name:'צופית',
+	NameE:'tzofit',
+PriceDayTo: 190,
+PriceNightTo:200 ,
+PriceDayFrom:'195' ,
+PriceNightFrom:'205'
+},
+
+{
+Name:'גן חיים',
+	NameE:'gan haim',
+PriceDayTo: 175,
+PriceNightTo: 185,
+PriceDayFrom:'185' ,
+PriceNightFrom:'205'
+},
+
+{
+Name:'מכמורת',
+	NameE:'michmoret',
+PriceDayTo: 290,
+PriceNightTo: 290,
+PriceDayFrom:'290' ,
+PriceNightFrom:'290'
+},
+
+{
+Name:'גן שמואל',
+	NameE:'gan shmuel',
+PriceDayTo:300 ,
+PriceNightTo:325 ,
+PriceDayFrom:'300' ,
+PriceNightFrom:'325'
+},
+
+{
+Name:'מעגן מיכאל',
+	NameE:"ma'agan michael",
+PriceDayTo:340 ,
+PriceNightTo:340 ,
+PriceDayFrom:'340' ,
+PriceNightFrom:'340'
+},
+
+{
+Name:'להבים',
+	NameE:'lehavim',
+PriceDayTo:395 ,
+PriceNightTo: 415,
+PriceDayFrom:'405' ,
+PriceNightFrom:'420'
+},
+
+{
+Name:'בת שלמה',
+	NameE:'bat shlomo',
+PriceDayTo: 355,
+PriceNightTo:385 ,
+PriceDayFrom:'385' ,
+PriceNightFrom:'410'
+},
+
+{
+Name:'נצרת עילית',
+	NameE:'nazareth illit',
+PriceDayTo:420 ,
+PriceNightTo: 420,
+PriceDayFrom:'420' ,
+PriceNightFrom:'420'
+},
+			
+{
+Name:'נוף הגליל',
+	NameE:'nof haGalil',
+PriceDayTo:420 ,
+PriceNightTo: 420,
+PriceDayFrom:'420' ,
+PriceNightFrom:'420'
+},
+{
+Name:'יוקנעם עילית',
+	NameE:'yokneam illit',
+PriceDayTo: 360,
+PriceNightTo:360 ,
+PriceDayFrom:'365' ,
+PriceNightFrom:'365'
+},
+
+{
+Name:'טירת הכרמל',
+	NameE:'tirat carmel',
+PriceDayTo: 415,
+PriceNightTo: 415,
+PriceDayFrom:'415' ,
+PriceNightFrom:'415'
+},
+
+{
+Name:'מגדל העמק',
+	NameE:'migdal haEmek',
+PriceDayTo: 415,
+PriceNightTo: 415,
+PriceDayFrom:'415' ,
+PriceNightFrom:'415'
+},
+
+{
+Name:'רמת ישי',
+	NameE:'ramat yishai',
+PriceDayTo: 420,
+PriceNightTo:420 ,
+PriceDayFrom:'420' ,
+PriceNightFrom:'420'
+},
+
+{
+Name:'נצרת',
+	NameE:'nazareth',
+PriceDayTo: 420,
+PriceNightTo:420 ,
+PriceDayFrom:'420' ,
+PriceNightFrom:'420'
+},
+
+{
+Name:'כפר כנא',
+	NameE:'kafr kana',
+PriceDayTo:420 ,
+PriceNightTo: 420,
+PriceDayFrom:'420' ,
+PriceNightFrom:'420'
+},
+
+{
+Name:'צפת',
+	NameE:'safed',
+PriceDayTo:625 ,
+PriceNightTo:625 ,
+PriceDayFrom:'630' ,
+PriceNightFrom:'630'
+},
+
+{
+Name:'להבות חביבה ',
+		NameE:'lehavot haviva',
+PriceDayTo: 345,
+PriceNightTo: 345,
+PriceDayFrom:'350' ,
+PriceNightFrom:'360'
+},
+
+{
+Name:'כרמיאל',
+	NameE:'karmiel',
+PriceDayTo: 470,
+PriceNightTo:470 ,
+PriceDayFrom:'470' ,
+PriceNightFrom:'470'
+},
+
+{
+Name:'מעלות תרשיחא',
+	NameE:"ma'alot tarshiha",
+PriceDayTo:515 ,
+PriceNightTo:515 ,
+PriceDayFrom:515 ,
+PriceNightFrom:'515'
+},
+
+{
+Name:'קצרין',
+	NameE:'katzrin',
+PriceDayTo:705 ,
+PriceNightTo:705 ,
+PriceDayFrom :705,
+PriceNightFrom:705
+},
+
+{
+Name:'עפולה',
+	NameE:'afula',
+PriceDayTo:415,
+PriceNightTo: 420,
+PriceDayFrom:'415' ,
+PriceNightFrom:'420'
+},
+			
+{
+Name:'חולון',
+	NameE:['holon', 'hulon'],
+PriceDayTo:135,
+PriceNightTo: 135,
+PriceDayFrom:'150' ,
+PriceNightFrom:'150'
+},
+
+]
+
+
+	let city=document.getElementById("form-field-test");
+	function NorthTlvCheckC() {
+	if (city.value == 'תל אביב'){
+		console.log("Tel Avivv")
+		var cityIDD = document.getElementsByClassName('elementor-field-input-description-test')
+		cityIDD[0].style.display = 'block';
+		if (cityIDD.length > 0) {
+			cityIDD[0].innerHTML = 'צפונה מארולוזורוב יש לרשום תל אביב צפון';
+			cityIDD[0].style.fontWeight = 'bold';
+			cityIDD[0].style.fontSize = '16px';
+			cityIDD[0].style.color = '#42f598';
+		} 
+	} else {
+		console.log("Tel Avivv else")
+		var cityIDD = document.getElementsByClassName('elementor-field-input-description-test')
+		if (cityIDD.length > 0) {
+			cityIDD[0].innerHTML = '';
+		} 
+	}
+}
+	let all_data=document.getElementById("all_data");
+	let all_data_2=document.getElementById("all_data_2");
+	let title_s=document.getElementById("title_s");
+	let no_data=document.getElementById("no_data");
+	let lotdata=document.getElementById("lotdata");
+	
+var amehiron = document.getElementById("auto-mehir");
+var formID = document.getElementById("form-field-clf16847578641002");
+var timeFormID = document.getElementById("form-field-clf16847456211002");
+var ShabatCheck = document.getElementById("form-field-clf16847578301002");
+function NorthTlvCheck() {
+	if (formID.value == 'תל אביב'){
+		console.log("Tel Avivv")
+		var formIDD = document.getElementsByClassName('elementor-field-input-description-clf16847578641002')
+		formIDD[0].style.display = 'block';
+		if (formIDD.length > 0) {
+			formIDD[0].innerHTML = 'צפונה מארולוזורוב יש לרשום תל אביב צפון';
+			formIDD[0].style.fontWeight = 'bold';
+			formIDD[0].style.fontSize = '16px';
+			formIDD[0].style.color = '#42f598';
+		} 
+	} else {
+		var formIDD = document.getElementsByClassName('elementor-field-input-description-clf16847578641002')
+		console.log("Tel Avivv else")
+		if (formIDD.length > 0) {
+			formIDD[0].innerHTML = '';
+		} 
+	}
+}
+// Function to detect daytime or nighttime
+function detectDaytimeOrNighttime(enteredTime) {
+    var enteredHours = parseInt(enteredTime.split(":")[0]);
+
+    if (enteredHours >= 20 || (enteredHours >= 0 && enteredHours < 6)) {
+        return 'NightTime';
+    } else {
+        return 'DayTime';
+    }
+}
+
+
+// Function to handle actions for DayTime
+function handleDaytimeActions() {
+    console.log('Daytime detected');
+
+    if (formID.value !== '') {
+        // Find the city that matches formID.value and log its Name
+        //amehiron.style.display = "block";
+        var cty = all_city.find(function (city) {
+            return (
+                city.Name.trim() == formID.value.trim() ||
+                city.NameE.trim() == formID.value.trim().toLowerCase()
+            );
+        });
+
+        if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default'); // Apply the same classes
+			h2Replacement.style.fontSize = '24px'
+			var text1 = document.createTextNode('מחיר הנסיעה')
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(cty.PriceDayTo.trim() + '₪');
+            var textSpace = document.createTextNode(' | ');
+            var text22 = document.createTextNode("(יום)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span')
+			mAm.textContent = 'כולל מע"מ'
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			h2Replacement.appendChild(text1)
+			h2Replacement.appendChild(br)
+            h2Replacement.appendChild(text2);
+            h2Replacement.appendChild(textSpace);
+            h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2)
+			h2Replacement.appendChild(mAm)
+
+            amehiron.innerHTML = ''; // Clear the existing content
+            amehiron.appendChild(h2Replacement); // Append the new <h2> element
+            console.log("City Price: " + cty.PriceDayTo.trim());
+        }
+    }
+
+    amehiron.style.display = "block";
+}
+
+// Function to handle actions for NightTime
+function handleNighttimeActions() {
+    console.log('Nighttime detected');
+    if (formID.value !== '') {
+        // Find the city that matches formID.value and log its Name
+        var cty = all_city.find(function (city) {
+            return (
+                city.Name.trim() == formID.value.trim() ||
+                city.NameE.trim() == formID.value.trim().toLowerCase()
+            );
+        });
+
+        if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default'); // Apply the same classes
+			h2Replacement.style.fontSize = '24px'
+			var text1 = document.createTextNode('מחיר הנסיעה')
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(cty.PriceNightTo.trim() + '₪');
+            var textSpace = document.createTextNode(' | ');
+            var text22 = document.createTextNode("(לילה)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span')
+			mAm.textContent = 'כולל מע"מ'
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			
+			h2Replacement.appendChild(text1)
+			h2Replacement.appendChild(br)
+            h2Replacement.appendChild(text2);
+            h2Replacement.appendChild(textSpace);
+            h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2)
+			h2Replacement.appendChild(mAm)
+
+            amehiron.innerHTML = ''; // Clear the existing content
+            amehiron.appendChild(h2Replacement); // Append the new <h2> element
+            console.log("City Price: " + cty.PriceNightTo.trim());
+        }
+    }
+
+    amehiron.style.display = "block";
+}
+function detectDayOfWeek(dateValue) {
+    var parts = dateValue.split("/");
+    var month = parseInt(parts[0]);
+    var day = parseInt(parts[1]);
+    var year = parseInt(parts[2]);
+
+    // Make sure to subtract 1 from the month because months are zero-based
+    var date = new Date(year, month - 1, day);
+
+    return date.getDay();
+}
+
+function detectShabbat(dateValue, timeValue) {
+	var enteredHours = parseInt(timeValue.split(":")[0]);
+	var enteredMinutes = parseInt(timeValue.split(":")[1]);
+    // Ensure dateValue and timeValue are not empty
+    if (dateValue.trim() === '' || timeValue.trim() === '') {
+        console.log('Date and time fields must not be empty');
+        return;
+    }
+
+    // Check if dateValue is in the expected "YYYY-mm-dd" format
+    var dateParts = dateValue.split('-');
+    if (dateParts.length !== 3) {
+        console.log('Invalid date format. Please use "YYYY-mm-dd"');
+        return;
+    }
+
+    // Parse date and time
+    var year = parseInt(dateParts[0]);
+    var month = parseInt(dateParts[1]);
+    var day = parseInt(dateParts[2]);
+
+    if (isNaN(year) || isNaN(month) || isNaN(day)) {
+        console.log('Invalid date format. Please use "YYYY-mm-dd"');
+        return;
+    }
+
+    var date = new Date(year, month - 1, day);
+    var dayOfWeek = date.getDay();
+    var timePeriod = detectDaytimeOrNighttime(timeValue);
+	var cty = all_city.find(function (city) {
+            return (
+                city.Name.trim() == formID.value.trim() ||
+                city.NameE.trim() == formID.value.trim().toLowerCase()
+            );
+        });
+    if (dayOfWeek === 5 && (enteredHours > 18 || (enteredHours === 18)/* && minutes >= 0 && timePeriod === 'NightTime'*/)) {
+        console.log('Erev Shabbat');
+        if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default'); // Apply the same classes
+			h2Replacement.style.fontSize = '24px'
+			var text1 = document.createTextNode('מחיר הנסיעה')
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(Math.round(cty.PriceNightTo*1.13) + '₪');
+            var textSpace = document.createTextNode(' | ');
+            var text22 = document.createTextNode("(שבת)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span')
+			mAm.textContent = 'כולל מע"מ'
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			
+			h2Replacement.appendChild(text1)
+			h2Replacement.appendChild(br)
+            h2Replacement.appendChild(text2);
+            h2Replacement.appendChild(textSpace);
+            h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2)
+			h2Replacement.appendChild(mAm)
+
+            amehiron.innerHTML = ''; // Clear the existing content
+            amehiron.appendChild(h2Replacement); // Append the new <h2> element
+            console.log("City Price: " + Math.round(cty.PriceNightTo*1.13));
+        }
+    } else if (dayOfWeek === 6 && (enteredHours >= 0 && enteredHours < 10)/*(enteredHours > 0 ||(enteredHours === 0 && minutes >= 0)) && timePeriod === 'DayTime'*/) {
+        console.log('Shabbat');
+		if (cty) {
+			var h2Replacement = document.createElement('h1');
+			h2Replacement.classList.add('elementor-heading-title', 'elementor-size-default'); // Apply the same classes
+			h2Replacement.style.fontSize = '24px'
+			var text1 = document.createTextNode('מחיר הנסיעה')
+			var br = document.createElement('br');
+			var text2 = document.createTextNode(Math.round(cty.PriceNightTo*1.13) + '₪');
+            var textSpace = document.createTextNode(' | ');
+            var text22 = document.createTextNode("(שבת)");
+			var br2 = document.createElement('br');
+			var mAm = document.createElement('span')
+			mAm.textContent = 'כולל מע"מ'
+			mAm.style.fontSize = '12px';
+			mAm.style.lineHeight = '7px';
+			
+			h2Replacement.appendChild(text1)
+			h2Replacement.appendChild(br)
+            h2Replacement.appendChild(text2);
+            h2Replacement.appendChild(textSpace);
+            h2Replacement.appendChild(text22);
+			h2Replacement.appendChild(br2)
+			h2Replacement.appendChild(mAm)
+
+            amehiron.innerHTML = ''; // Clear the existing content
+            amehiron.appendChild(h2Replacement); // Append the new <h2> element
+            console.log("City Price: " + cty.PriceNightTo*1.13 + ', Shabbat: ' + Math.round(cty.PriceNightTo*1.13));
+    }}
+}
+
+// Check if the formID and timeFormID elements exist
+if (formID && timeFormID && ShabatCheck) {
+    // Add an event listener to check if the form field is filled.
+    formID.addEventListener('blur', function () {
+        if (formID.value !== '') {
+			console.log('checking!')
+			NorthTlvCheck()
+            // The field is not empty, you can add your code here.
+            console.log('Field is filled: ' + formID.value);
+
+            // Get the time from the timeFormID input field
+            var enteredTime = timeFormID.value;
+
+            // Detect daytime or nighttime
+            var timePeriod = detectDaytimeOrNighttime(enteredTime);
+
+            if (timePeriod === 'NightTime') {
+                handleNighttimeActions();
+            } else {
+                handleDaytimeActions();
+            }
+			
+			// Detect Erev Shabbat or Shabbat
+            detectShabbat(ShabatCheck.value, enteredTime);
+        } else {
+            // The field is empty.
+            console.log('Field is empty');
+        }
+		
+		timeFormID.addEventListener('input', function () {
+        if (formID.value !== '') {
+			NorthTlvCheck()
+            // Get the updated time from the input field
+            var updatedTime = timeFormID.value;
+
+            // Detect daytime or nighttime for the updated time
+            var updatedTimePeriod = detectDaytimeOrNighttime(updatedTime);
+
+            if (updatedTimePeriod === 'NightTime') {
+                handleNighttimeActions();
+            } else {
+                handleDaytimeActions();
+            }
+			
+			// Detect Erev Shabbat or Shabbat
+			detectShabbat(ShabatCheck.value, updatedTime);
+        }
+			
+			// Add an event listener to detect changes in the ShabatCheck input field
+			ShabatCheck.addEventListener('input', function () {
+			if (formID.value !== '' && timeFormID.value !== '') {
+            // Get the updated date and time values
+            var updatedDate = ShabatCheck.value;
+            var updatedTime = timeFormID.value;
+            var enteredTime = timeFormID.value;
+            // Detect daytime or nighttime for the updated time
+            var timePeriod = detectDaytimeOrNighttime(updatedTime);
+
+            if (timePeriod === 'NightTime') {
+                handleNighttimeActions();
+            } else {
+                handleDaytimeActions();
+            }
+
+            // Detect Erev Shabbat or Shabbat
+            detectShabbat(updatedDate, updatedTime);
+        }
+    });
+    });
+    });
+}
+
+	let to_day=document.getElementById("to_day");
+	let to_night=document.getElementById("to_night");
+	let from_day=document.getElementById("from_day");
+	let from_night=document.getElementById("from_night");
+	
+	let to_day_s=document.getElementById("to_day_s");
+	let to_night_s=document.getElementById("to_night_s");
+	let from_day_s=document.getElementById("from_day_s");
+	let from_night_s=document.getElementById("from_night_s");
+	let no_data1=document.getElementById("no_data");
+	let check_data=document.getElementById("check_data");
+	console.log("check_data")
+	check_data.addEventListener('click',function(){
+		console.log(city.value);
+		
+		
+		//to_day.style.display="block";
+		//to_night.style.display="block";
+		//from_day.style.display="block";
+		//from_night.style.display="block";
+		
+		//to_day_s.style.display="block";
+		//to_night_s.style.display="block";
+		//from_day_s.style.display="block";
+		//from_night_s.style.display="block";
+		let i, flag=false;
+		for(i=0;i<all_city.length;i++){
+			//if(all_city[i].Name.trim()==city.value.trim()||all_city[i].NameE.trim()==(city.value.trim()).toLowerCase()){
+				if(all_city[i].Name.trim()==city.value.trim()|| (typeof all_city[i].NameE === 'string' && all_city[i].NameE.trim() === city.value.trim().toLowerCase())){
+					NorthTlvCheckC()
+					all_data.style.display="block";
+					all_data_2.style.display="block";
+					title_s.style.display="block";
+					lotdata.style.display="block";
+					no_data1.style.display="none";
+					to_day.innerHTML=all_city[i].PriceDayTo;
+					to_night.innerHTML=all_city[i].PriceNightTo;
+					from_day.innerHTML=all_city[i].PriceDayFrom;
+					from_night.innerHTML=all_city[i].PriceNightFrom;
+
+					to_day_s.innerHTML=(parseInt(Math.round(all_city[i].PriceDayTo)*1.13))
+					to_night_s.innerHTML=(parseInt(Math.round(all_city[i].PriceNightTo)*1.13))
+					from_day_s.innerHTML=(parseInt(Math.round(all_city[i].PriceDayFrom)*1.13))
+					from_night_s.innerHTML=(parseInt(Math.round(all_city[i].PriceNightFrom)*1.13))
+					
+					//to_day_s.innerHTML=(parseInt(all_city[i].PriceDayTo)*1.13).toFixed(2);
+					//to_night_s.innerHTML=(parseInt(all_city[i].PriceNightTo)*1.13).toFixed(2);
+					//from_day_s.innerHTML=(parseInt(all_city[i].PriceDayFrom)*1.13).toFixed(2);
+					//from_night_s.innerHTML=(parseInt(all_city[i].PriceNightFrom)*1.13).toFixed(2);
+					flag=true;
+					//console.log("flag: " + flag)
+					break;
+				}	
+		}
+		if(!flag){
+			console.log("!flag")
+			all_data.style.display="none";
+			all_data_2.style.display="none";
+			title_s.style.display="none";
+			no_data1.style.display="block";
+		} 
+		
+	})
+
+</script>
+
