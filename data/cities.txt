@@ -962,5 +962,5 @@ PriceNightTo: 135,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150'
 },
-
+שדגשדגשדג
 ]

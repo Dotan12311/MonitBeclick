@@ -86,8 +86,8 @@
 		if (formID.value !== '') {
 			var cty = all_city.find(function (city) {
 				return (
-					city.Name.trim() == formID.value.trim() ||
-					city.NameE.trim() == formID.value.trim().toLowerCase()
+					city.Name == formID.value ||
+					city.NameE == formID.value.toLowerCase()
 				);
 			});
 
@@ -97,7 +97,7 @@
 				h2Replacement.style.fontSize = '24px';
 				var text1 = document.createTextNode('מחיר הנסיעה');
 				var br = document.createElement('br');
-				var text2 = document.createTextNode(cty.PriceDayTo.trim() + '₪');
+				var text2 = document.createTextNode(cty.PriceDayTo + '₪');
 				var textSpace = document.createTextNode(' | ');
 				var text22 = document.createTextNode("(יום)");
 				var br2 = document.createElement('br');
@@ -114,7 +114,7 @@
 				h2Replacement.appendChild(mAm);
 				amehiron.innerHTML = '';
 				amehiron.appendChild(h2Replacement);
-				console.log("City Price: " + cty.PriceDayTo.trim());
+				console.log("City Price: " + cty.PriceDayTo);
 			}
 		}
 
@@ -127,8 +127,8 @@
 		if (formID.value !== '') {
 			var cty = all_city.find(function (city) {
 				return (
-					city.Name.trim() == formID.value.trim() ||
-					city.NameE.trim() == formID.value.trim().toLowerCase()
+					city.Name == formID.value ||
+					city.NameE == formID.value.toLowerCase()
 				);
 			});
 
@@ -138,7 +138,7 @@
 				h2Replacement.style.fontSize = '24px';
 				var text1 = document.createTextNode('מחיר הנסיעה');
 				var br = document.createElement('br');
-				var text2 = document.createTextNode(cty.PriceNightTo.trim() + '₪');
+				var text2 = document.createTextNode(cty.PriceNightTo + '₪');
 				var textSpace = document.createTextNode(' | ');
 				var text22 = document.createTextNode("(לילה)");
 				var br2 = document.createElement('br');
@@ -155,7 +155,7 @@
 				h2Replacement.appendChild(mAm);
 				amehiron.innerHTML = '';
 				amehiron.appendChild(h2Replacement);
-				console.log("City Price: " + cty.PriceNightTo.trim());
+				console.log("City Price: " + cty.PriceNightTo);
 			}
 		}
 
@@ -202,8 +202,8 @@
 	var timePeriod = detectDaytimeOrNighttime(timeValue);
 	var cty = all_city.find(function (city) {
 		return (
-			city.Name.trim() == formID.value.trim() ||
-			city.NameE.trim() == formID.value.trim().toLowerCase()
+			city.Name == formID.value ||
+			city.NameE == formID.value.toLowerCase()
 		);
 	});
 
@@ -336,7 +336,7 @@ check_data.addEventListener('click', function () {
 
 	let i, flag = false;
 	for (i = 0; i < all_city.length; i++) {
-		if (all_city[i].Name.trim() == city.value.trim() || (typeof all_city[i].NameE === 'string' && all_city[i].NameE.trim() === city.value.trim().toLowerCase())) {
+		if (all_city[i].Name == city.value || (typeof all_city[i].NameE === 'string' && all_city[i].NameE === city.value.toLowerCase())) {
 			NorthTlvCheckC();
 			all_data.style.display = "block";
 			all_data_2.style.display = "block";
