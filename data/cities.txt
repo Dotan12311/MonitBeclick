@@ -971,4 +971,20 @@ PriceDayFrom:240 ,
 PriceNightFrom:240
 },
 
+Name:'צור הדסה',
+	NameE:'tzur hadassah',
+PriceDayTo:'265' ,
+PriceNightTo:'280' ,
+PriceDayFrom:280 ,
+PriceNightFrom:295
+},
+
+Name:'כפר הס',
+	NameE:'Kfar hess',
+PriceDayTo:'240' ,
+PriceNightTo:'250' ,
+PriceDayFrom:240 ,
+PriceNightFrom:255
+},
+
 ]
