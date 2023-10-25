@@ -963,12 +963,4 @@ PriceDayFrom:'150' ,
 PriceNightFrom:'150'
 },
 
-Name:'חולון',
-	NameE:'holon',
-PriceDayTo:135,
-PriceNightTo: 135,
-PriceDayFrom:'150' ,
-PriceNightFrom:'150'
-},
-
 ]
