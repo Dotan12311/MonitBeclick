@@ -116,8 +116,8 @@ Name:'נתניה ',
 	NameE:'netania',
 PriceDayTo:'230 ' ,
 PriceNightTo:' 240' ,
-PriceDayFrom:'250 ' ,
-PriceNightFrom:'250 '
+PriceDayFrom:'240 ' ,
+PriceNightFrom:'240 '
 },
 {
 Name:'חדרה ',
@@ -469,8 +469,8 @@ Name:'תל מונד',
 	NameE:'tel mond',
 PriceDayTo:'230' ,
 PriceNightTo:'240' ,
-PriceDayFrom:'250' ,
-PriceNightFrom:'250'
+PriceDayFrom:'240' ,
+PriceNightFrom:'240'
 },
 {
 Name:'כפר שמריהו',
