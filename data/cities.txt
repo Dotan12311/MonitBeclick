@@ -956,11 +956,19 @@ PriceNightFrom:'420'
 			
 {
 Name:'חולון',
-	NameE:['holon', 'hulon'],
+	NameE:'holon',
 PriceDayTo:135,
 PriceNightTo: 135,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150'
+},
+
+Name:'אבן יהודה',
+	NameE:'even yehuda',
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:240 ,
+PriceNightFrom:240
 },
 
 ]
