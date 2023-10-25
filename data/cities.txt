@@ -483,10 +483,10 @@ PriceNightFrom:185
 {
 Name:'פרדסיה',
 	NameE:'pardesia',
-PriceDayTo:'240' ,
-PriceNightTo:'250' ,
-PriceDayFrom:250 ,
-PriceNightFrom:260
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:240 ,
+PriceNightFrom:240
 },
 {
 Name:'רינתיה',
@@ -957,6 +957,14 @@ PriceNightFrom:'420'
 {
 Name:'חולון',
 	NameE:['holon', 'hulon'],
+PriceDayTo:135,
+PriceNightTo: 135,
+PriceDayFrom:'150' ,
+PriceNightFrom:'150'
+},
+
+Name:'חולון',
+	NameE:'holon',
 PriceDayTo:135,
 PriceNightTo: 135,
 PriceDayFrom:'150' ,
