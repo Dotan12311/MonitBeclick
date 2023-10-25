@@ -20,8 +20,8 @@ Name:'רמת גן  ',
 	NameE:'ramat gan',
 PriceDayTo:'135 ' ,
 PriceNightTo:'140 ' ,
-PriceDayFrom:'155 ' ,
-PriceNightFrom:'165'
+PriceDayFrom:'150 ' ,
+PriceNightFrom:'160'
 },
 {
 Name:'גבעתיים ',
