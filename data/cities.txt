@@ -5,7 +5,7 @@ Name:'תל אביב צפון  ',
 PriceDayTo:'145 ' ,
 PriceNightTo:'150 ' ,
 PriceDayFrom:'155 ' ,
-PriceNightFrom:'165 '
+PriceNightFrom:'165 ',
 fivePlus: '110'
 },
 {
