@@ -6,6 +6,7 @@ PriceDayTo:'145 ' ,
 PriceNightTo:'150 ' ,
 PriceDayFrom:'155 ' ,
 PriceNightFrom:'165 '
+
 },
 {
 Name:'תל אביב  ',
@@ -42,7 +43,7 @@ PriceNightFrom:'150 '
 {
 Name:'גבעת שמואל ',
 	NameE:"giv'at shmuel",
-PriceDayTo:'140 ' ,
+PriceDayTo:'135 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
 PriceNightFrom:'150 '
@@ -267,8 +268,8 @@ PriceNightFrom:'155'
 {
 Name:'נס ציונה',
 	NameE:'nes-ziona',
-PriceDayTo:'155' ,
-PriceNightTo:'160' ,
+PriceDayTo:'140' ,
+PriceNightTo:'145' ,
 PriceDayFrom:'160' ,
 PriceNightFrom:'165'
 },
