@@ -14,7 +14,8 @@ Name:'תל אביב  ',
 PriceDayTo:'135' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'155'
+PriceNightFrom:'155',
+fivePlus: '110'
 },
 {
 Name:'רמת גן  ',
@@ -22,7 +23,8 @@ Name:'רמת גן  ',
 PriceDayTo:'135 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'160'
+PriceNightFrom:'160',
+fivePlus: '110'
 },
 {
 Name:'גבעתיים ',
@@ -30,7 +32,8 @@ Name:'גבעתיים ',
 PriceDayTo:'140 ' ,
 PriceNightTo:'145 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'160 '
+PriceNightFrom:'160 ',
+fivePlus: '110'
 },
 {
 Name:'בני ברק ',
@@ -46,7 +49,8 @@ Name:'גבעת שמואל ',
 PriceDayTo:'135 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'150 '
+PriceNightFrom:'150 ',
+fivePlus: '110'
 },
 {
 Name:'פתח תקוה ',
@@ -255,7 +259,8 @@ Name:'ראשון לציון',
 PriceDayTo:'140' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'150'
+PriceNightFrom:'150',
+fivePlus: '110'
 },
 {
 Name:'בת ים',
@@ -271,7 +276,8 @@ Name:'נס ציונה',
 PriceDayTo:'140' ,
 PriceNightTo:'145' ,
 PriceDayFrom:'160' ,
-PriceNightFrom:'165'
+PriceNightFrom:'165',
+fivePlus: '110'
 },
 {
 Name:'רחובות',
@@ -279,7 +285,8 @@ Name:'רחובות',
 PriceDayTo:'140' ,
 PriceNightTo:'145' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'155'
+PriceNightFrom:'155',
+fivePlus: '110'
 },
 {
 Name:'באר שבע',
