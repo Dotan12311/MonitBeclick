@@ -555,10 +555,10 @@ PriceNightFrom:'360'
 {
 Name:'מבשרת ציון',
 	NameE:'mevasseret zion',
-PriceDayTo:'225' ,
-PriceNightTo:'245' ,
-PriceDayFrom:'230' ,
-PriceNightFrom:'245'
+PriceDayTo:'220' ,
+PriceNightTo:'235' ,
+PriceDayFrom:'235' ,
+PriceNightFrom:'240'
 },
 {
 Name:'שדרות',
