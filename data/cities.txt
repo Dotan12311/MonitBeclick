@@ -87,9 +87,9 @@ PriceNightFrom:'185 '
 {
 Name:'רמת השרון ',
 	NameE:'ramat hasharon',
-PriceDayTo:'175 ' ,
+PriceDayTo:'170 ' ,
 PriceNightTo:'180 ' ,
-PriceDayFrom:'185 ' ,
+PriceDayFrom:'175 ' ,
 PriceNightFrom:' 185'
 },
 {
