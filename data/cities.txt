@@ -1025,4 +1025,12 @@ PriceDayFrom:285 ,
 PriceNightFrom:300
 },
 
+Name:'גשר הזיו',
+	NameE:'Gesher HaZiv',
+PriceDayTo:'480' ,
+PriceNightTo:'490' ,
+PriceDayFrom:480 ,
+PriceNightFrom:490
+},
+
 ]
