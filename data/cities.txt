@@ -396,9 +396,9 @@ PriceNightFrom:'235'
 Name:'יבנה',
 	NameE:'yavneh',
 PriceDayTo:'175' ,
-PriceNightTo:'185' ,
+PriceNightTo:'180' ,
 PriceDayFrom:'185' ,
-PriceNightFrom:'190'
+PriceNightFrom:'200'
 },
 {
 Name:'רמלה',
