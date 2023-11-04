@@ -991,7 +991,7 @@ PriceNightFrom:295
 
 {
 Name:'כפר הס',
-	NameE:'Kfar hess',
+	NameE:'kfar hess',
 PriceDayTo:'240' ,
 PriceNightTo:'250' ,
 PriceDayFrom:240 ,
@@ -1000,7 +1000,7 @@ PriceNightFrom:255
 
 {
 Name:'נירית',
-	NameE:'Nirit',
+	NameE:'nirit',
 PriceDayTo:'180' ,
 PriceNightTo:'200' ,
 PriceDayFrom:185 ,
@@ -1009,7 +1009,7 @@ PriceNightFrom:200
 
 {
 Name:'עלי זהב',
-	NameE:'Alei Zahav',
+	NameE:'alei zahav',
 PriceDayTo:'220' ,
 PriceNightTo:'220' ,
 PriceDayFrom:220 ,
