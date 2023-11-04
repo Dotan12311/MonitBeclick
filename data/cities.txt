@@ -1025,12 +1025,22 @@ PriceDayFrom:285 ,
 PriceNightFrom:300
 },
 
+{
 Name:'גשר הזיו',
-	NameE:'Gesher HaZiv',
+	NameE:'gesher haziv',
 PriceDayTo:'480' ,
 PriceNightTo:'490' ,
 PriceDayFrom:480 ,
 PriceNightFrom:490
+},
+
+{
+Name:'עין צורים',
+	NameE:'Ein Tzurim',
+PriceDayTo:'250' ,
+PriceNightTo:'250' ,
+PriceDayFrom:260 ,
+PriceNightFrom:260
 },
 
 ]
