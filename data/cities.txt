@@ -998,12 +998,22 @@ PriceDayFrom:240 ,
 PriceNightFrom:255
 },
 
+{
 Name:'נירית',
 	NameE:'Kfar hess',
 PriceDayTo:'180' ,
 PriceNightTo:'200' ,
 PriceDayFrom:185 ,
 PriceNightFrom:200
+},
+
+{
+Name:'עלי זהב',
+	NameE:'Kfar hess',
+PriceDayTo:'220' ,
+PriceNightTo:'220' ,
+PriceDayFrom:220 ,
+PriceNightFrom:220
 },
 
 ]
