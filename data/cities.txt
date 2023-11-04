@@ -971,6 +971,7 @@ PriceDayFrom:'150' ,
 PriceNightFrom:'150'
 },
 
+{
 Name:'אבן יהודה',
 	NameE:'even yehuda',
 PriceDayTo:'230' ,
@@ -979,6 +980,7 @@ PriceDayFrom:240 ,
 PriceNightFrom:240
 },
 
+{
 Name:'צור הדסה',
 	NameE:'tzur hadassah',
 PriceDayTo:'265' ,
@@ -987,6 +989,7 @@ PriceDayFrom:280 ,
 PriceNightFrom:295
 },
 
+{
 Name:'כפר הס',
 	NameE:'Kfar hess',
 PriceDayTo:'240' ,
