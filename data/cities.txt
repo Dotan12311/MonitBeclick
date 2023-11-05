@@ -969,7 +969,8 @@ Name:'חולון',
 PriceDayTo:135,
 PriceNightTo: 135,
 PriceDayFrom:'150' ,
-PriceNightFrom:'150'
+PriceNightFrom:'150',
+fivePlus: '85'
 },
 
 {
