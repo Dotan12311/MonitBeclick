@@ -266,9 +266,9 @@ fivePlus: '110'
 Name:'בת ים',
 	NameE:'bat yam',
 PriceDayTo:'135' ,
-PriceNightTo:'140' ,
-PriceDayFrom:'150' ,
-PriceNightFrom:'155',
+PriceNightTo:'145' ,
+PriceDayFrom:'145' ,
+PriceNightFrom:'150',
 fivePlus: '100'
 },
 {
