@@ -268,7 +268,8 @@ Name:'בת ים',
 PriceDayTo:'135' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'155'
+PriceNightFrom:'155',
+fivePlus: '100'
 },
 {
 Name:'נס ציונה',
