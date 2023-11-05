@@ -276,9 +276,9 @@ Name:'נס ציונה',
 	NameE:'nes-ziona',
 PriceDayTo:'140' ,
 PriceNightTo:'145' ,
-PriceDayFrom:'160' ,
-PriceNightFrom:'165',
-fivePlus: '110'
+PriceDayFrom:'145' ,
+PriceNightFrom:'155',
+fivePlus: '85'
 },
 {
 Name:'רחובות',
