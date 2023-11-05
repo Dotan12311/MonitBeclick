@@ -278,7 +278,7 @@ PriceDayTo:'140' ,
 PriceNightTo:'145' ,
 PriceDayFrom:'145' ,
 PriceNightFrom:'155',
-fivePlus: '85'
+fivePlus: '95'
 },
 {
 Name:'רחובות',
