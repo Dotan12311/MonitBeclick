@@ -1045,4 +1045,13 @@ PriceDayFrom:260 ,
 PriceNightFrom:260
 },
 
+{
+Name:'טירת יהודה',
+	NameE:'tirat yehuda',
+PriceDayTo:'95' ,
+PriceNightTo:'100' ,
+PriceDayFrom:100 ,
+PriceNightFrom:110
+},
+
 ]
