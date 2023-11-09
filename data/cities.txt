@@ -1021,10 +1021,10 @@ PriceNightFrom:220
 {
 Name:'יעף',
 	NameE:'ye'af',
-PriceDayTo:'285' ,
-PriceNightTo:'300' ,
-PriceDayFrom:285 ,
-PriceNightFrom:300
+PriceDayTo:'265' ,
+PriceNightTo:'265' ,
+PriceDayFrom:275 ,
+PriceNightFrom:275
 },
 
 {
