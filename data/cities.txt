@@ -328,7 +328,7 @@ PriceDayTo:'220' ,
 PriceNightTo:'240' ,
 PriceDayFrom:'230' ,
 PriceNightFrom:'240',
-fivePlus: 160
+fivePlus: '160'
 },
 {
 Name:'מודיעין',
