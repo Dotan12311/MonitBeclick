@@ -324,10 +324,10 @@ PriceNightFrom:'415'
 {
 Name:'ירושלים',
 	NameE:'jerusalem',
-PriceDayTo:'240' ,
+PriceDayTo:'220' ,
 PriceNightTo:'240' ,
-PriceDayFrom:'250' ,
-PriceNightFrom:'250'
+PriceDayFrom:'230' ,
+PriceNightFrom:'240'
 },
 {
 Name:'מודיעין',
