@@ -725,10 +725,10 @@ PriceNightFrom:'245'
 {
 Name:'בית יהושע',
 	NameE:'beit yehoshua',
-PriceDayTo:240 ,
-PriceNightTo: 250,
-PriceDayFrom:'250' ,
-PriceNightFrom:'250'
+PriceDayTo:225 ,
+PriceNightTo: 230,
+PriceDayFrom:'230' ,
+PriceNightFrom:'235'
 },
 
 {
@@ -1039,7 +1039,7 @@ PriceNightFrom:490
 
 {
 Name:'עין צורים',
-	NameE:'Ein Tzurim',
+	NameE:'ein Tzurim',
 PriceDayTo:'250' ,
 PriceNightTo:'250' ,
 PriceDayFrom:260 ,
@@ -1049,6 +1049,15 @@ PriceNightFrom:260
 {
 Name:'טירת יהודה',
 	NameE:'tirat yehuda',
+PriceDayTo:'95' ,
+PriceNightTo:'100' ,
+PriceDayFrom:100 ,
+PriceNightFrom:110
+},
+
+{
+Name:'מתן',
+	NameE:'matan',
 PriceDayTo:'95' ,
 PriceNightTo:'100' ,
 PriceDayFrom:100 ,
