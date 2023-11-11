@@ -1058,10 +1058,10 @@ PriceNightFrom:110
 {
 Name:'מתן',
 	NameE:'matan',
-PriceDayTo:'95' ,
-PriceNightTo:'100' ,
-PriceDayFrom:100 ,
-PriceNightFrom:110
+PriceDayTo:'170' ,
+PriceNightTo:'180' ,
+PriceDayFrom:175 ,
+PriceNightFrom:185
 },
 
 ]
