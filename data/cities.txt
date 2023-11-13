@@ -1064,4 +1064,13 @@ PriceDayFrom:175 ,
 PriceNightFrom:185
 },
 
+
+{
+Name:'טל שחר',
+	NameE:'tal shahar',
+PriceDayTo:'180' ,
+PriceNightTo:'180' ,
+PriceDayFrom:185 ,
+PriceNightFrom:200
+},
 ]
