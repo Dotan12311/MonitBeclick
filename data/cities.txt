@@ -1085,7 +1085,7 @@ PriceNightFrom:240
 
 {
 Name:'כפר נטר',
-	NameE:'kfar neter',
+	NameE:'kfar netter',
 PriceDayTo:'230' ,
 PriceNightTo:'240' ,
 PriceDayFrom:230 ,
@@ -1094,11 +1094,20 @@ PriceNightFrom:240
 
 {
 Name:'קרית יערים',
-	NameE:'kiriyat yearim',
+	NameE:'kiriyat ye'arim',
 PriceDayTo:'220' ,
 PriceNightTo:'240' ,
 PriceDayFrom:220 ,
 PriceNightFrom:240
+},
+
+{
+Name:'נוף איילון',
+	NameE:'nof ayalon',
+PriceDayTo:'155' ,
+PriceNightTo:'165' ,
+PriceDayFrom:160 ,
+PriceNightFrom:170
 },
 
 ]
