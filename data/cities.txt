@@ -1110,4 +1110,31 @@ PriceDayFrom:160 ,
 PriceNightFrom:170
 },
 
+{
+Name:'עדנים',
+	NameE:'adanym',
+PriceDayTo:'150' ,
+PriceNightTo:'165' ,
+PriceDayFrom:150 ,
+PriceNightFrom:165
+},
+
+
+{
+Name:'צלפון',
+	NameE:'tzelafon',
+PriceDayTo:'170' ,
+PriceNightTo:'180' ,
+PriceDayFrom:170 ,
+PriceNightFrom:180
+},
+
+{
+Name:'משמר איילון',
+	NameE:'mishmar ayalon',
+PriceDayTo:'160' ,
+PriceNightTo:'170' ,
+PriceDayFrom:160 ,
+PriceNightFrom:170
+},
 ]
