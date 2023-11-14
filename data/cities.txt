@@ -1073,4 +1073,14 @@ PriceNightTo:'180' ,
 PriceDayFrom:185 ,
 PriceNightFrom:200
 },
+
+{
+Name:'קדימה צורן',
+	NameE:'kadima zoran',
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:240 ,
+PriceNightFrom:240
+},
+
 ]
