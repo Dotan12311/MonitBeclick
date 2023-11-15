@@ -1159,10 +1159,10 @@ PriceNightFrom:260
 {
 Name:'כפר ויתקין',
 	NameE:'kfar vitkin',
-PriceDayTo:'260' ,
-PriceNightTo:'280' ,
-PriceDayFrom:260 ,
-PriceNightFrom:280
+PriceDayTo:'26' ,
+PriceNightTo:'28' ,
+PriceDayFrom:26 ,
+PriceNightFrom:28
 },
 
 ]
