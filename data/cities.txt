@@ -1137,4 +1137,32 @@ PriceNightTo:'170' ,
 PriceDayFrom:160 ,
 PriceNightFrom:170
 },
+
+{
+Name:'כפר ורדים',
+	NameE:'kfar vradim',
+PriceDayTo:'500' ,
+PriceNightTo:'500' ,
+PriceDayFrom:510 ,
+PriceNightFrom:510
+},
+
+{
+Name:'כפר ורבורג',
+	NameE:'kfar warburg',
+PriceDayTo:'235' ,
+PriceNightTo:'260' ,
+PriceDayFrom:235 ,
+PriceNightFrom:260
+},
+
+{
+Name:'כפר ויתקין',
+	NameE:'kfar vitkin',
+PriceDayTo:'260' ,
+PriceNightTo:'280' ,
+PriceDayFrom:260 ,
+PriceNightFrom:280
+},
+
 ]
