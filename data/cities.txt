@@ -543,8 +543,8 @@ Name:'כפר ורבורג',
 	NameE:'kfar warburg',
 PriceDayTo:'240' ,
 PriceNightTo:'260' ,
-PriceDayFrom:'245' ,
-PriceNightFrom:'265'
+PriceDayFrom:'230' ,
+PriceNightFrom:'260'
 },
 {
 Name:'מבקיעים',
