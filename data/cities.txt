@@ -168,10 +168,10 @@ PriceNightFrom:'340'
 {
 Name:'חיפה',
 	NameE:'haifa',
-PriceDayTo:'425' ,
-PriceNightTo:'425' ,
-PriceDayFrom:'435' ,
-PriceNightFrom:'435'
+PriceDayTo:'400' ,
+PriceNightTo:'400' ,
+PriceDayFrom:'415' ,
+PriceNightFrom:'415'
 },
 {
 Name:'עכו',
