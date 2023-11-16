@@ -745,8 +745,8 @@ Name:'כפר ויתקין',
 	NameE:'kfar vitkin',
 PriceDayTo:260 ,
 PriceNightTo:280 ,
-PriceDayFrom:'270' ,
-PriceNightFrom:'285'
+PriceDayFrom:'260' ,
+PriceNightFrom:'280'
 },
 
 {
@@ -922,10 +922,10 @@ PriceNightFrom:'630'
 {
 Name:'להבות חביבה ',
 		NameE:'lehavot haviva',
-PriceDayTo: 345,
-PriceNightTo: 345,
-PriceDayFrom:'350' ,
-PriceNightFrom:'360'
+PriceDayTo: 300,
+PriceNightTo: 325,
+PriceDayFrom:'300' ,
+PriceNightFrom:'325'
 },
 
 {
@@ -1148,21 +1148,30 @@ PriceNightFrom:510
 },
 
 {
-Name:'כפר ורבורג',
-	NameE:'kfar warburg',
-PriceDayTo:'235' ,
-PriceNightTo:'260' ,
-PriceDayFrom:235 ,
-PriceNightFrom:260
+Name:'מגל',
+	NameE:'magel',
+PriceDayTo:'280' ,
+PriceNightTo:'280' ,
+PriceDayFrom:280 ,
+PriceNightFrom:280
 },
 
 {
-Name:'כפר ויתקין',
-	NameE:'kfar vitkin',
-PriceDayTo:'26' ,
-PriceNightTo:'28' ,
-PriceDayFrom:26 ,
-PriceNightFrom:28
+Name:'מאור',
+	NameE:'maor',
+PriceDayTo:'300' ,
+PriceNightTo:'320' ,
+PriceDayFrom:300 ,
+PriceNightFrom:320
+},
+
+{
+Name:'שדה יצחק',
+	NameE:'itzhak field',
+PriceDayTo:'300' ,
+PriceNightTo:'325' ,
+PriceDayFrom:300 ,
+PriceNightFrom:325
 },
 
 ]
