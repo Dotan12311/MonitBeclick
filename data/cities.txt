@@ -541,9 +541,9 @@ PriceNightFrom:'240'
 {
 Name:'כפר ורבורג',
 	NameE:'kfar warburg',
-PriceDayTo:'240' ,
+PriceDayTo:'235' ,
 PriceNightTo:'260' ,
-PriceDayFrom:'230' ,
+PriceDayFrom:'235' ,
 PriceNightFrom:'260'
 },
 {
@@ -1149,7 +1149,7 @@ PriceNightFrom:510
 
 {
 Name:'מגל',
-	NameE:'magel',
+	NameE:'magal',
 PriceDayTo:'280' ,
 PriceNightTo:'280' ,
 PriceDayFrom:280 ,
@@ -1172,6 +1172,15 @@ PriceDayTo:'300' ,
 PriceNightTo:'325' ,
 PriceDayFrom:300 ,
 PriceNightFrom:325
+},
+
+{
+Name:'פורים עילית',
+	NameE:'itzhak field',
+PriceDayTo:'500' ,
+PriceNightTo:'520' ,
+PriceDayFrom:500 ,
+PriceNightFrom:520
 },
 
 ]
