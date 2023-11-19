@@ -1,0 +1,23 @@
+[
+  {
+    "name": "תל אביב",
+    "PriceDayTo": 123,
+    "PriceNightTo": 123,
+    "PriceDayFrom": 123,
+    "PriceNightFrom": 123
+  },
+  {
+    "name": "בת ים",
+    "PriceDayTo": 1,
+    "PriceNightTo": 1,
+    "PriceDayFrom": 1,
+    "PriceNightFrom": 1119283671237
+  },
+  {
+    "name": "בת ים    ",
+    "PriceDayTo": 1,
+    "PriceNightTo": 1,
+    "PriceDayFrom": 1,
+    "PriceNightFrom": 1119283671237
+  }
+]
