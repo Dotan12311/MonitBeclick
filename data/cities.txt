@@ -1,12 +1,12 @@
 [
 {
-Name:'תל אביב צפון  ',
-	NameE:'tel aviv north',
-PriceDayTo:'145 ' ,
-PriceNightTo:'150 ' ,
-PriceDayFrom:'155 ' ,
-PriceNightFrom:'165 ',
-fivePlus: '110'
+"Name":'תל אביב צפון  ',
+	"NameE":'tel aviv north',
+"PriceDayTo":'145 ' ,
+"PriceNightTo":'150 ' ,
+"PriceDayFrom":'155 ' ,
+"PriceNightFrom":'165 ',
+"fivePlus": '110'
 },
 {
 Name:'תל אביב  ',
@@ -87,9 +87,9 @@ PriceNightFrom:'185 '
 {
 Name:'רמת השרון ',
 	NameE:'ramat hasharon',
-PriceDayTo:'175 ' ,
+PriceDayTo:'170 ' ,
 PriceNightTo:'180 ' ,
-PriceDayFrom:'185 ' ,
+PriceDayFrom:'175 ' ,
 PriceNightFrom:' 185'
 },
 {
@@ -168,10 +168,10 @@ PriceNightFrom:'340'
 {
 Name:'חיפה',
 	NameE:'haifa',
-PriceDayTo:'425' ,
-PriceNightTo:'425' ,
-PriceDayFrom:'435' ,
-PriceNightFrom:'435'
+PriceDayTo:'400' ,
+PriceNightTo:'400' ,
+PriceDayFrom:'415' ,
+PriceNightFrom:'415'
 },
 {
 Name:'עכו',
@@ -266,18 +266,19 @@ fivePlus: '110'
 Name:'בת ים',
 	NameE:'bat yam',
 PriceDayTo:'135' ,
-PriceNightTo:'140' ,
-PriceDayFrom:'150' ,
-PriceNightFrom:'155'
+PriceNightTo:'145' ,
+PriceDayFrom:'145' ,
+PriceNightFrom:'150',
+fivePlus: '100'
 },
 {
 Name:'נס ציונה',
 	NameE:'nes-ziona',
 PriceDayTo:'140' ,
 PriceNightTo:'145' ,
-PriceDayFrom:'160' ,
-PriceNightFrom:'165',
-fivePlus: '110'
+PriceDayFrom:'145' ,
+PriceNightFrom:'155',
+fivePlus: '95'
 },
 {
 Name:'רחובות',
@@ -323,10 +324,11 @@ PriceNightFrom:'415'
 {
 Name:'ירושלים',
 	NameE:'jerusalem',
-PriceDayTo:'240' ,
+PriceDayTo:'220' ,
 PriceNightTo:'240' ,
-PriceDayFrom:'250' ,
-PriceNightFrom:'250'
+PriceDayFrom:'230' ,
+PriceNightFrom:'240',
+fivePlus: '160'
 },
 {
 Name:'מודיעין',
@@ -387,18 +389,18 @@ PriceNightFrom:'200'
 {
 Name:'גן יבנה',
 	NameE:'gan yavne',
-PriceDayTo:'220' ,
-PriceNightTo:'240' ,
-PriceDayFrom:'230' ,
-PriceNightFrom:'255'
+PriceDayTo:'210' ,
+PriceNightTo:'230' ,
+PriceDayFrom:'225' ,
+PriceNightFrom:'235'
 },
 {
 Name:'יבנה',
 	NameE:'yavneh',
 PriceDayTo:'175' ,
-PriceNightTo:'185' ,
+PriceNightTo:'180' ,
 PriceDayFrom:'185' ,
-PriceNightFrom:'190'
+PriceNightFrom:'200'
 },
 {
 Name:'רמלה',
@@ -539,10 +541,10 @@ PriceNightFrom:'240'
 {
 Name:'כפר ורבורג',
 	NameE:'kfar warburg',
-PriceDayTo:'240' ,
+PriceDayTo:'235' ,
 PriceNightTo:'260' ,
-PriceDayFrom:'245' ,
-PriceNightFrom:'265'
+PriceDayFrom:'235' ,
+PriceNightFrom:'260'
 },
 {
 Name:'מבקיעים',
@@ -723,10 +725,10 @@ PriceNightFrom:'245'
 {
 Name:'בית יהושע',
 	NameE:'beit yehoshua',
-PriceDayTo:240 ,
-PriceNightTo: 250,
-PriceDayFrom:'250' ,
-PriceNightFrom:'250'
+PriceDayTo:225 ,
+PriceNightTo: 230,
+PriceDayFrom:'230' ,
+PriceNightFrom:'235'
 },
 
 {
@@ -743,8 +745,8 @@ Name:'כפר ויתקין',
 	NameE:'kfar vitkin',
 PriceDayTo:260 ,
 PriceNightTo:280 ,
-PriceDayFrom:'270' ,
-PriceNightFrom:'285'
+PriceDayFrom:'260' ,
+PriceNightFrom:'280'
 },
 
 {
@@ -920,10 +922,10 @@ PriceNightFrom:'630'
 {
 Name:'להבות חביבה ',
 		NameE:'lehavot haviva',
-PriceDayTo: 345,
-PriceNightTo: 345,
-PriceDayFrom:'350' ,
-PriceNightFrom:'360'
+PriceDayTo: 300,
+PriceNightTo: 325,
+PriceDayFrom:'300' ,
+PriceNightFrom:'325'
 },
 
 {
@@ -968,9 +970,11 @@ Name:'חולון',
 PriceDayTo:135,
 PriceNightTo: 135,
 PriceDayFrom:'150' ,
-PriceNightFrom:'150'
+PriceNightFrom:'150',
+fivePlus: '85'
 },
 
+{
 Name:'אבן יהודה',
 	NameE:'even yehuda',
 PriceDayTo:'230' ,
@@ -979,6 +983,7 @@ PriceDayFrom:240 ,
 PriceNightFrom:240
 },
 
+{
 Name:'צור הדסה',
 	NameE:'tzur hadassah',
 PriceDayTo:'265' ,
@@ -987,12 +992,195 @@ PriceDayFrom:280 ,
 PriceNightFrom:295
 },
 
+{
 Name:'כפר הס',
-	NameE:'Kfar hess',
+	NameE:'kfar hess',
 PriceDayTo:'240' ,
 PriceNightTo:'250' ,
 PriceDayFrom:240 ,
 PriceNightFrom:255
+},
+
+{
+Name:'נירית',
+	NameE:'nirit',
+PriceDayTo:'180' ,
+PriceNightTo:'200' ,
+PriceDayFrom:185 ,
+PriceNightFrom:200
+},
+
+{
+Name:'עלי זהב',
+	NameE:'alei zahav',
+PriceDayTo:'220' ,
+PriceNightTo:'220' ,
+PriceDayFrom:220 ,
+PriceNightFrom:220
+},
+
+{
+Name:'יעף',
+	NameE:'ye'af',
+PriceDayTo:'265' ,
+PriceNightTo:'265' ,
+PriceDayFrom:275 ,
+PriceNightFrom:275
+},
+
+{
+Name:'גשר הזיו',
+	NameE:'gesher haziv',
+PriceDayTo:'480' ,
+PriceNightTo:'490' ,
+PriceDayFrom:480 ,
+PriceNightFrom:490
+},
+
+{
+Name:'עין צורים',
+	NameE:'ein Tzurim',
+PriceDayTo:'250' ,
+PriceNightTo:'250' ,
+PriceDayFrom:260 ,
+PriceNightFrom:260
+},
+
+{
+Name:'טירת יהודה',
+	NameE:'tirat yehuda',
+PriceDayTo:'95' ,
+PriceNightTo:'100' ,
+PriceDayFrom:100 ,
+PriceNightFrom:110
+},
+
+{
+Name:'מתן',
+	NameE:'matan',
+PriceDayTo:'170' ,
+PriceNightTo:'180' ,
+PriceDayFrom:175 ,
+PriceNightFrom:185
+},
+
+
+{
+Name:'טל שחר',
+	NameE:'tal shahar',
+PriceDayTo:'180' ,
+PriceNightTo:'180' ,
+PriceDayFrom:185 ,
+PriceNightFrom:200
+},
+
+{
+Name:'קדימה צורן',
+	NameE:'kadima zoran',
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:240 ,
+PriceNightFrom:240
+},
+
+{
+Name:'כפר נטר',
+	NameE:'kfar netter',
+PriceDayTo:'230' ,
+PriceNightTo:'240' ,
+PriceDayFrom:230 ,
+PriceNightFrom:240
+},
+
+{
+Name:'קרית יערים',
+	NameE:'kiriyat ye'arim',
+PriceDayTo:'220' ,
+PriceNightTo:'240' ,
+PriceDayFrom:220 ,
+PriceNightFrom:240
+},
+
+{
+Name:'נוף איילון',
+	NameE:'nof ayalon',
+PriceDayTo:'155' ,
+PriceNightTo:'165' ,
+PriceDayFrom:160 ,
+PriceNightFrom:170
+},
+
+{
+Name:'עדנים',
+	NameE:'adanym',
+PriceDayTo:'150' ,
+PriceNightTo:'165' ,
+PriceDayFrom:150 ,
+PriceNightFrom:165
+},
+
+
+{
+Name:'צלפון',
+	NameE:'tzelafon',
+PriceDayTo:'170' ,
+PriceNightTo:'180' ,
+PriceDayFrom:170 ,
+PriceNightFrom:180
+},
+
+{
+Name:'משמר איילון',
+	NameE:'mishmar ayalon',
+PriceDayTo:'160' ,
+PriceNightTo:'170' ,
+PriceDayFrom:160 ,
+PriceNightFrom:170
+},
+
+{
+Name:'כפר ורדים',
+	NameE:'kfar vradim',
+PriceDayTo:'500' ,
+PriceNightTo:'500' ,
+PriceDayFrom:510 ,
+PriceNightFrom:510
+},
+
+{
+Name:'מגל',
+	NameE:'magal',
+PriceDayTo:'280' ,
+PriceNightTo:'280' ,
+PriceDayFrom:280 ,
+PriceNightFrom:280
+},
+
+{
+Name:'מאור',
+	NameE:'maor',
+PriceDayTo:'300' ,
+PriceNightTo:'320' ,
+PriceDayFrom:300 ,
+PriceNightFrom:320
+},
+
+{
+Name:'שדה יצחק',
+	NameE:'itzhak field',
+PriceDayTo:'300' ,
+PriceNightTo:'325' ,
+PriceDayFrom:300 ,
+PriceNightFrom:325
+},
+
+{
+Name:'פורים עילית',
+	NameE:'itzhak field',
+PriceDayTo:'500' ,
+PriceNightTo:'520' ,
+PriceDayFrom:500 ,
+PriceNightFrom:520
 },
 
 ]
