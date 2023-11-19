@@ -1,12 +1,12 @@
 [
 {
-Name:'תל אביב צפון  ',
-	NameE:'tel aviv north',
-PriceDayTo:'145 ' ,
-PriceNightTo:'150 ' ,
-PriceDayFrom:'155 ' ,
-PriceNightFrom:'165 ',
-fivePlus: '110'
+"Name":'תל אביב צפון  ',
+	"NameE":'tel aviv north',
+"PriceDayTo":'145 ' ,
+"PriceNightTo":'150 ' ,
+"PriceDayFrom":'155 ' ,
+"PriceNightFrom":'165 ',
+"fivePlus": '110'
 },
 {
 Name:'תל אביב  ',
