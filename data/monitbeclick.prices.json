@@ -1,0 +1,1540 @@
+[{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56687d"
+  },
+  "Name": "תל אביב צפון",
+  "NameE": "tel aviv north",
+  "PriceDayTo": 145,
+  "PriceNightTo": 150,
+  "PriceDayFrom": 155,
+  "PriceNightFrom": 165,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56687e"
+  },
+  "Name": "תל אביב",
+  "NameE": "tel aviv",
+  "PriceDayTo": 135,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 155,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56687f"
+  },
+  "Name": "רמת גן",
+  "NameE": "ramat gan",
+  "PriceDayTo": 135,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 160,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566880"
+  },
+  "Name": "גבעתיים",
+  "NameE": "givatayim",
+  "PriceDayTo": 140,
+  "PriceNightTo": 145,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 160,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566881"
+  },
+  "Name": "בני ברק",
+  "NameE": "bnei brak",
+  "PriceDayTo": 140,
+  "PriceNightTo": 145,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 150
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566882"
+  },
+  "Name": "גבעת שמואל",
+  "NameE": "giv'at shmuel",
+  "PriceDayTo": 135,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 150,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566883"
+  },
+  "Name": "פתח תקוה",
+  "NameE": "petah tiqva",
+  "PriceDayTo": 140,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 145,
+  "PriceNightFrom": 150
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566884"
+  },
+  "Name": "ראש העין",
+  "NameE": "rosh ha'ayin",
+  "PriceDayTo": 140,
+  "PriceNightTo": 150,
+  "PriceDayFrom": 155,
+  "PriceNightFrom": 160
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566885"
+  },
+  "Name": "גני תקווה",
+  "NameE": "ganei tikva",
+  "PriceDayTo": 130,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 140,
+  "PriceNightFrom": 140
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566886"
+  },
+  "Name": "הרצליה",
+  "NameE": "herzliya",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566887"
+  },
+  "Name": "רמת השרון",
+  "NameE": "ramat hasharon",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 175,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566888"
+  },
+  "Name": "הוד השרון",
+  "NameE": "hod haSharon",
+  "PriceDayTo": 160,
+  "PriceNightTo": 165,
+  "PriceDayFrom": 165,
+  "PriceNightFrom": 170
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566889"
+  },
+  "Name": "רעננה",
+  "NameE": "ra'anana",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 180,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688a"
+  },
+  "Name": "כפר סבא",
+  "NameE": "kfar sava",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 180,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688b"
+  },
+  "Name": "נתניה",
+  "NameE": "netania",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688c"
+  },
+  "Name": "חדרה",
+  "NameE": "hadera",
+  "PriceDayTo": 280,
+  "PriceNightTo": 285,
+  "PriceDayFrom": 285,
+  "PriceNightFrom": 285
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688d"
+  },
+  "Name": "קיסריה",
+  "NameE": "caesarea",
+  "PriceDayTo": 310,
+  "PriceNightTo": 310,
+  "PriceDayFrom": 320,
+  "PriceNightFrom": 320
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688e"
+  },
+  "Name": "בנימינה",
+  "NameE": "binyamina",
+  "PriceDayTo": 315,
+  "PriceNightTo": 320,
+  "PriceDayFrom": 330,
+  "PriceNightFrom": 345
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56688f"
+  },
+  "Name": "גבעת עדה",
+  "NameE": "givat ada",
+  "PriceDayTo": 315,
+  "PriceNightTo": 320,
+  "PriceDayFrom": 330,
+  "PriceNightFrom": 345
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566890"
+  },
+  "Name": "זיכרון יעקב",
+  "NameE": "zikhron ya'akov",
+  "PriceDayTo": 330,
+  "PriceNightTo": 330,
+  "PriceDayFrom": 330,
+  "PriceNightFrom": 340
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566891"
+  },
+  "Name": "חיפה",
+  "NameE": "haifa",
+  "PriceDayTo": 400,
+  "PriceNightTo": 400,
+  "PriceDayFrom": 415,
+  "PriceNightFrom": 415
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566892"
+  },
+  "Name": "עכו",
+  "NameE": "acre",
+  "PriceDayTo": 460,
+  "PriceNightTo": 475,
+  "PriceDayFrom": 480,
+  "PriceNightFrom": 500
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566893"
+  },
+  "Name": "נהריה",
+  "NameE": "nahariya",
+  "PriceDayTo": 495,
+  "PriceNightTo": 520,
+  "PriceDayFrom": 500,
+  "PriceNightFrom": 540
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566894"
+  },
+  "Name": "קרית ענבים",
+  "NameE": "kiryat anavim",
+  "PriceDayTo": 235,
+  "PriceNightTo": 245,
+  "PriceDayFrom": 245,
+  "PriceNightFrom": 260
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566895"
+  },
+  "Name": "קרית שמונה",
+  "NameE": "kiryat shmona",
+  "PriceDayTo": 745,
+  "PriceNightTo": 745,
+  "PriceDayFrom": 745,
+  "PriceNightFrom": 765
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566896"
+  },
+  "Name": "קרית חיים",
+  "NameE": "kiryat haim",
+  "PriceDayTo": 425,
+  "PriceNightTo": 425,
+  "PriceDayFrom": 435,
+  "PriceNightFrom": 435
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566897"
+  },
+  "Name": "קרית מוצקין",
+  "NameE": "kiryat motzkin",
+  "PriceDayTo": 425,
+  "PriceNightTo": 425,
+  "PriceDayFrom": 435,
+  "PriceNightFrom": 435
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566898"
+  },
+  "Name": "קרית אתא",
+  "NameE": "kiryat ata",
+  "PriceDayTo": 425,
+  "PriceNightTo": 425,
+  "PriceDayFrom": 435,
+  "PriceNightFrom": 435
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566899"
+  },
+  "Name": "קרית גת",
+  "NameE": "kiryat gat",
+  "PriceDayTo": 290,
+  "PriceNightTo": 320,
+  "PriceDayFrom": 330,
+  "PriceNightFrom": 345
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689a"
+  },
+  "Name": "אשקלון",
+  "NameE": "ashkelon",
+  "PriceDayTo": 310,
+  "PriceNightTo": 330,
+  "PriceDayFrom": 320,
+  "PriceNightFrom": 330
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689b"
+  },
+  "Name": "אשדוד",
+  "NameE": "ashdod",
+  "PriceDayTo": 230,
+  "PriceNightTo": 250,
+  "PriceDayFrom": 235,
+  "PriceNightFrom": 250
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689c"
+  },
+  "Name": "ראשון לציון",
+  "NameE": "rishon le zion",
+  "PriceDayTo": 140,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 150,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689d"
+  },
+  "Name": "בת ים",
+  "NameE": "bat yam",
+  "PriceDayTo": 135,
+  "PriceNightTo": 145,
+  "PriceDayFrom": 145,
+  "PriceNightFrom": 150,
+  "fivePlus": 100
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689e"
+  },
+  "Name": "נס ציונה",
+  "NameE": "nes-ziona",
+  "PriceDayTo": 140,
+  "PriceNightTo": 145,
+  "PriceDayFrom": 145,
+  "PriceNightFrom": 155,
+  "fivePlus": 95
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be56689f"
+  },
+  "Name": "רחובות",
+  "NameE": "rehovot",
+  "PriceDayTo": 140,
+  "PriceNightTo": 145,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 155,
+  "fivePlus": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a0"
+  },
+  "Name": "באר שבע",
+  "NameE": "beer-sheba",
+  "PriceDayTo": 420,
+  "PriceNightTo": 460,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 475
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a1"
+  },
+  "Name": "אילת",
+  "NameE": "eilat",
+  "PriceDayTo": 1450,
+  "PriceNightTo": 1550,
+  "PriceDayFrom": 1500,
+  "PriceNightFrom": 1650
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a2"
+  },
+  "Name": "פרדס חנה כרכור",
+  "NameE": "pardes hanna karkur",
+  "PriceDayTo": 310,
+  "PriceNightTo": 310,
+  "PriceDayFrom": 310,
+  "PriceNightFrom": 310
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a3"
+  },
+  "Name": "עתלית",
+  "NameE": "atlit",
+  "PriceDayTo": 390,
+  "PriceNightTo": 400,
+  "PriceDayFrom": 415,
+  "PriceNightFrom": 415
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a4"
+  },
+  "Name": "ירושלים",
+  "NameE": "jerusalem",
+  "PriceDayTo": 220,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 230,
+  "PriceNightFrom": 240,
+  "fivePlus": 160
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a5"
+  },
+  "Name": "מודיעין",
+  "NameE": "modi'in",
+  "PriceDayTo": 140,
+  "PriceNightTo": 150,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 150
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a6"
+  },
+  "Name": "בית שמש",
+  "NameE": "beth shemesh",
+  "PriceDayTo": 220,
+  "PriceNightTo": 225,
+  "PriceDayFrom": 230,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a7"
+  },
+  "Name": "בית אל",
+  "NameE": "beit el",
+  "PriceDayTo": 355,
+  "PriceNightTo": 400,
+  "PriceDayFrom": 355,
+  "PriceNightFrom": 400
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a8"
+  },
+  "Name": "בית אלפא",
+  "NameE": "beit alfa",
+  "PriceDayTo": 490,
+  "PriceNightTo": 510,
+  "PriceDayFrom": 490,
+  "PriceNightFrom": 510
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668a9"
+  },
+  "Name": "ירושלים מעלה אדומים",
+  "NameE": "jerusalem ma'ale adumim",
+  "PriceDayTo": 310,
+  "PriceNightTo": 310,
+  "PriceDayFrom": 320,
+  "PriceNightFrom": 340
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668aa"
+  },
+  "Name": "מעלות",
+  "NameE": "maalot",
+  "PriceDayTo": 535,
+  "PriceNightTo": 550,
+  "PriceDayFrom": 545,
+  "PriceNightFrom": 560
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ab"
+  },
+  "Name": "גדרה",
+  "NameE": "gedera",
+  "PriceDayTo": 175,
+  "PriceNightTo": 185,
+  "PriceDayFrom": 190,
+  "PriceNightFrom": 200
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ac"
+  },
+  "Name": "גן יבנה",
+  "NameE": "gan yavne",
+  "PriceDayTo": 210,
+  "PriceNightTo": 230,
+  "PriceDayFrom": 225,
+  "PriceNightFrom": 235
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ad"
+  },
+  "Name": "יבנה",
+  "NameE": "yavneh",
+  "PriceDayTo": 175,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 200
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ae"
+  },
+  "Name": "רמלה",
+  "NameE": "ramla",
+  "PriceDayTo": 125,
+  "PriceNightTo": 125,
+  "PriceDayFrom": 125,
+  "PriceNightFrom": 130
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668af"
+  },
+  "Name": "לוד",
+  "NameE": "lod",
+  "PriceDayTo": 95,
+  "PriceNightTo": 100,
+  "PriceDayFrom": 90,
+  "PriceNightFrom": 115
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b0"
+  },
+  "Name": "שוהם",
+  "NameE": "shoham",
+  "PriceDayTo": 100,
+  "PriceNightTo": 110,
+  "PriceDayFrom": 115,
+  "PriceNightFrom": 115
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b1"
+  },
+  "Name": "אור יהודה",
+  "NameE": "or yehuda",
+  "PriceDayTo": 100,
+  "PriceNightTo": 115,
+  "PriceDayFrom": 115,
+  "PriceNightFrom": 130
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b2"
+  },
+  "Name": "קרית אונו",
+  "NameE": "kiryat ono",
+  "PriceDayTo": 125,
+  "PriceNightTo": 135,
+  "PriceDayFrom": 135,
+  "PriceNightFrom": 145
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b3"
+  },
+  "Name": "יהוד",
+  "NameE": "yehud",
+  "PriceDayTo": 100,
+  "PriceNightTo": 110,
+  "PriceDayFrom": 100,
+  "PriceNightFrom": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b4"
+  },
+  "Name": "אזור",
+  "NameE": "azor",
+  "PriceDayTo": 120,
+  "PriceNightTo": 120,
+  "PriceDayFrom": 120,
+  "PriceNightFrom": 120
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b5"
+  },
+  "Name": "טבריה",
+  "NameE": "tiberias",
+  "PriceDayTo": 550,
+  "PriceNightTo": 590,
+  "PriceDayFrom": 620,
+  "PriceNightFrom": 620
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b6"
+  },
+  "Name": "כפר יונה",
+  "NameE": "kfar yona",
+  "PriceDayTo": 255,
+  "PriceNightTo": 280,
+  "PriceDayFrom": 255,
+  "PriceNightFrom": 280
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b7"
+  },
+  "Name": "תל מונד",
+  "NameE": "tel mond",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b8"
+  },
+  "Name": "כפר שמריהו",
+  "NameE": "kfar shmaryahu",
+  "PriceDayTo": 180,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668b9"
+  },
+  "Name": "פרדסיה",
+  "NameE": "pardesia",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ba"
+  },
+  "Name": "רינתיה",
+  "NameE": "rinatya",
+  "PriceDayTo": 120,
+  "PriceNightTo": 130,
+  "PriceDayFrom": 130,
+  "PriceNightFrom": 130
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668bb"
+  },
+  "Name": "אחיסמך",
+  "NameE": "ahisamakh",
+  "PriceDayTo": 120,
+  "PriceNightTo": 125,
+  "PriceDayFrom": 125,
+  "PriceNightFrom": 125
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668bc"
+  },
+  "Name": "רישפון",
+  "NameE": "rishpon",
+  "PriceDayTo": 200,
+  "PriceNightTo": 210,
+  "PriceDayFrom": 215,
+  "PriceNightFrom": 220
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668bd"
+  },
+  "Name": "קרית מלאכי",
+  "NameE": "kiryat Malakhi",
+  "PriceDayTo": 250,
+  "PriceNightTo": 250,
+  "PriceDayFrom": 255,
+  "PriceNightFrom": 260
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668be"
+  },
+  "Name": "בני עיש",
+  "NameE": "bnei ayish",
+  "PriceDayTo": 185,
+  "PriceNightTo": 210,
+  "PriceDayFrom": 230,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668bf"
+  },
+  "Name": "כפר ורבורג",
+  "NameE": "kfar warburg",
+  "PriceDayTo": 235,
+  "PriceNightTo": 260,
+  "PriceDayFrom": 235,
+  "PriceNightFrom": 260
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c0"
+  },
+  "Name": "מבקיעים",
+  "NameE": "mavki'im",
+  "PriceDayTo": 335,
+  "PriceNightTo": 360,
+  "PriceDayFrom": 335,
+  "PriceNightFrom": 360
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c1"
+  },
+  "Name": "מבשרת ציון",
+  "NameE": "mevasseret zion",
+  "PriceDayTo": 220,
+  "PriceNightTo": 235,
+  "PriceDayFrom": 235,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c2"
+  },
+  "Name": "שדרות",
+  "NameE": "sderot",
+  "PriceDayTo": 350,
+  "PriceNightTo": 425,
+  "PriceDayFrom": 360,
+  "PriceNightFrom": 425
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c3"
+  },
+  "Name": "ערד",
+  "NameE": "arad",
+  "PriceDayTo": 540,
+  "PriceNightTo": 620,
+  "PriceDayFrom": 550,
+  "PriceNightFrom": 630
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c4"
+  },
+  "Name": "נתיבות",
+  "NameE": "netivot",
+  "PriceDayTo": 365,
+  "PriceNightTo": 435,
+  "PriceDayFrom": 370,
+  "PriceNightFrom": 440
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c5"
+  },
+  "Name": "אופקים",
+  "NameE": "ofaqim",
+  "PriceDayTo": 435,
+  "PriceNightTo": 495,
+  "PriceDayFrom": 435,
+  "PriceNightFrom": 495
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c6"
+  },
+  "Name": "מיתר",
+  "NameE": "metar",
+  "PriceDayTo": 420,
+  "PriceNightTo": 440,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 440
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c7"
+  },
+  "Name": "יד בנימין",
+  "NameE": "yad binyamin",
+  "PriceDayTo": 185,
+  "PriceNightTo": 205,
+  "PriceDayFrom": 180,
+  "PriceNightFrom": 205
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c8"
+  },
+  "Name": "מזכרת בתיה",
+  "NameE": "mazkeret batya",
+  "PriceDayTo": 155,
+  "PriceNightTo": 170,
+  "PriceDayFrom": 180,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668c9"
+  },
+  "Name": "קרית עקרון",
+  "NameE": "kiryat ekron",
+  "PriceDayTo": 145,
+  "PriceNightTo": 155,
+  "PriceDayFrom": 155,
+  "PriceNightFrom": 170
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ca"
+  },
+  "Name": "באר יעקב",
+  "NameE": "be'er ya'akov",
+  "PriceDayTo": 140,
+  "PriceNightTo": 140,
+  "PriceDayFrom": 145,
+  "PriceNightFrom": 150
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668cb"
+  },
+  "Name": "צור יגאל",
+  "NameE": "tzur yig'al",
+  "PriceDayTo": 215,
+  "PriceNightTo": 230,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668cc"
+  },
+  "Name": "צור יצחק",
+  "NameE": "tzur yitzhak",
+  "PriceDayTo": 245,
+  "PriceNightTo": 275,
+  "PriceDayFrom": 245,
+  "PriceNightFrom": 280
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668cd"
+  },
+  "Name": "טירה",
+  "NameE": "tira",
+  "PriceDayTo": 250,
+  "PriceNightTo": 265,
+  "PriceDayFrom": 260,
+  "PriceNightFrom": 285
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ce"
+  },
+  "Name": "סכנין",
+  "NameE": "sakhnin",
+  "PriceDayTo": 485,
+  "PriceNightTo": 485,
+  "PriceDayFrom": 485,
+  "PriceNightFrom": 485
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668cf"
+  },
+  "Name": "אלפי מנשה",
+  "NameE": "alfei menashe",
+  "PriceDayTo": 220,
+  "PriceNightTo": 235,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 235
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d0"
+  },
+  "Name": "חריש",
+  "NameE": "harish",
+  "PriceDayTo": 320,
+  "PriceNightTo": 320,
+  "PriceDayFrom": 320,
+  "PriceNightFrom": 320
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d1"
+  },
+  "Name": "יקום",
+  "NameE": "yakum",
+  "PriceDayTo": 215,
+  "PriceNightTo": 235,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d2"
+  },
+  "Name": "אודים",
+  "NameE": "udim",
+  "PriceDayTo": 235,
+  "PriceNightTo": 245,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 250
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d3"
+  },
+  "Name": "תל יצחק",
+  "NameE": "tel yitzhak",
+  "PriceDayTo": 240,
+  "PriceNightTo": 245,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 255
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d4"
+  },
+  "Name": "בני ציון",
+  "NameE": "bnei zion",
+  "PriceDayTo": 220,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 245
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d5"
+  },
+  "Name": "בית יהושע",
+  "NameE": "beit yehoshua",
+  "PriceDayTo": 225,
+  "PriceNightTo": 230,
+  "PriceDayFrom": 230,
+  "PriceNightFrom": 235
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d6"
+  },
+  "Name": "שפיים",
+  "NameE": "shefayim",
+  "PriceDayTo": 220,
+  "PriceNightTo": 235,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 245
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d7"
+  },
+  "Name": "כפר ויתקין",
+  "NameE": "kfar vitkin",
+  "PriceDayTo": 260,
+  "PriceNightTo": 280,
+  "PriceDayFrom": 260,
+  "PriceNightFrom": 280
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d8"
+  },
+  "Name": "רמות השבים",
+  "NameE": "ramot haShavim",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 175,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668d9"
+  },
+  "Name": "כפר מלל",
+  "NameE": "kfar malal",
+  "PriceDayTo": 165,
+  "PriceNightTo": 175,
+  "PriceDayFrom": 170,
+  "PriceNightFrom": 175
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668da"
+  },
+  "Name": "בית ברל",
+  "NameE": "beit berl",
+  "PriceDayTo": 195,
+  "PriceNightTo": 200,
+  "PriceDayFrom": 195,
+  "PriceNightFrom": 205
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668db"
+  },
+  "Name": "צופית",
+  "NameE": "tzofit",
+  "PriceDayTo": 190,
+  "PriceNightTo": 200,
+  "PriceDayFrom": 195,
+  "PriceNightFrom": 205
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668dc"
+  },
+  "Name": "גן חיים",
+  "NameE": "gan haim",
+  "PriceDayTo": 175,
+  "PriceNightTo": 185,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 205
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668dd"
+  },
+  "Name": "מכמורת",
+  "NameE": "michmoret",
+  "PriceDayTo": 290,
+  "PriceNightTo": 290,
+  "PriceDayFrom": 290,
+  "PriceNightFrom": 290
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668de"
+  },
+  "Name": "גן שמואל",
+  "NameE": "gan shmuel",
+  "PriceDayTo": 300,
+  "PriceNightTo": 325,
+  "PriceDayFrom": 300,
+  "PriceNightFrom": 325
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668df"
+  },
+  "Name": "מעגן מיכאל",
+  "NameE": "ma'agan michael",
+  "PriceDayTo": 340,
+  "PriceNightTo": 340,
+  "PriceDayFrom": 340,
+  "PriceNightFrom": 340
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e0"
+  },
+  "Name": "להבים",
+  "NameE": "lehavim",
+  "PriceDayTo": 395,
+  "PriceNightTo": 415,
+  "PriceDayFrom": 405,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e1"
+  },
+  "Name": "בת שלמה",
+  "NameE": "bat shlomo",
+  "PriceDayTo": 355,
+  "PriceNightTo": 385,
+  "PriceDayFrom": 385,
+  "PriceNightFrom": 410
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e2"
+  },
+  "Name": "נצרת עילית",
+  "NameE": "nazareth illit",
+  "PriceDayTo": 420,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e3"
+  },
+  "Name": "נוף הגליל",
+  "NameE": "nof haGalil",
+  "PriceDayTo": 420,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e4"
+  },
+  "Name": "יוקנעם עילית",
+  "NameE": "yokneam illit",
+  "PriceDayTo": 360,
+  "PriceNightTo": 360,
+  "PriceDayFrom": 365,
+  "PriceNightFrom": 365
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e5"
+  },
+  "Name": "טירת הכרמל",
+  "NameE": "tirat carmel",
+  "PriceDayTo": 415,
+  "PriceNightTo": 415,
+  "PriceDayFrom": 415,
+  "PriceNightFrom": 415
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e6"
+  },
+  "Name": "מגדל העמק",
+  "NameE": "migdal haEmek",
+  "PriceDayTo": 415,
+  "PriceNightTo": 415,
+  "PriceDayFrom": 415,
+  "PriceNightFrom": 415
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e7"
+  },
+  "Name": "רמת ישי",
+  "NameE": "ramat yishai",
+  "PriceDayTo": 420,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e8"
+  },
+  "Name": "נצרת",
+  "NameE": "nazareth",
+  "PriceDayTo": 420,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668e9"
+  },
+  "Name": "כפר כנא",
+  "NameE": "kafr kana",
+  "PriceDayTo": 420,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 420,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ea"
+  },
+  "Name": "צפת",
+  "NameE": "safed",
+  "PriceDayTo": 625,
+  "PriceNightTo": 625,
+  "PriceDayFrom": 630,
+  "PriceNightFrom": 630
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668eb"
+  },
+  "Name": "להבות חביבה",
+  "NameE": "lehavot haviva",
+  "PriceDayTo": 300,
+  "PriceNightTo": 325,
+  "PriceDayFrom": 300,
+  "PriceNightFrom": 325
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ec"
+  },
+  "Name": "כרמיאל",
+  "NameE": "karmiel",
+  "PriceDayTo": 470,
+  "PriceNightTo": 470,
+  "PriceDayFrom": 470,
+  "PriceNightFrom": 470
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ed"
+  },
+  "Name": "מעלות תרשיחא",
+  "NameE": "ma'alot tarshiha",
+  "PriceDayTo": 515,
+  "PriceNightTo": 515,
+  "PriceDayFrom": 515,
+  "PriceNightFrom": 515
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ee"
+  },
+  "Name": "קצרין",
+  "NameE": "katzrin",
+  "PriceDayTo": 705,
+  "PriceNightTo": 705,
+  "PriceDayFrom": 705,
+  "PriceNightFrom": 705
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ef"
+  },
+  "Name": "עפולה",
+  "NameE": "afula",
+  "PriceDayTo": 415,
+  "PriceNightTo": 420,
+  "PriceDayFrom": 415,
+  "PriceNightFrom": 420
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f0"
+  },
+  "Name": "חולון",
+  "NameE": "holon",
+  "PriceDayTo": 135,
+  "PriceNightTo": 135,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 150,
+  "fivePlus": 85
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f1"
+  },
+  "Name": "אבן יהודה",
+  "NameE": "even yehuda",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f2"
+  },
+  "Name": "צור הדסה",
+  "NameE": "tzur hadassah",
+  "PriceDayTo": 265,
+  "PriceNightTo": 280,
+  "PriceDayFrom": 280,
+  "PriceNightFrom": 295
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f3"
+  },
+  "Name": "כפר הס",
+  "NameE": "kfar hess",
+  "PriceDayTo": 240,
+  "PriceNightTo": 250,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 255
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f4"
+  },
+  "Name": "נירית",
+  "NameE": "nirit",
+  "PriceDayTo": 180,
+  "PriceNightTo": 200,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 200
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f5"
+  },
+  "Name": "עלי זהב",
+  "NameE": "alei zahav",
+  "PriceDayTo": 220,
+  "PriceNightTo": 220,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 220
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f6"
+  },
+  "Name": "יעף",
+  "NameE": "ye'af",
+  "PriceDayTo": 265,
+  "PriceNightTo": 265,
+  "PriceDayFrom": 275,
+  "PriceNightFrom": 275
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f7"
+  },
+  "Name": "גשר הזיו",
+  "NameE": "gesher haziv",
+  "PriceDayTo": 480,
+  "PriceNightTo": 490,
+  "PriceDayFrom": 480,
+  "PriceNightFrom": 490
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f8"
+  },
+  "Name": "עין צורים",
+  "NameE": "ein Tzurim",
+  "PriceDayTo": 250,
+  "PriceNightTo": 250,
+  "PriceDayFrom": 260,
+  "PriceNightFrom": 260
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668f9"
+  },
+  "Name": "טירת יהודה",
+  "NameE": "tirat yehuda",
+  "PriceDayTo": 95,
+  "PriceNightTo": 100,
+  "PriceDayFrom": 100,
+  "PriceNightFrom": 110
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668fa"
+  },
+  "Name": "מתן",
+  "NameE": "matan",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 175,
+  "PriceNightFrom": 185
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668fb"
+  },
+  "Name": "טל שחר",
+  "NameE": "tal shahar",
+  "PriceDayTo": 180,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 185,
+  "PriceNightFrom": 200
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668fc"
+  },
+  "Name": "קדימה צורן",
+  "NameE": "kadima zoran",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 240,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668fd"
+  },
+  "Name": "כפר נטר",
+  "NameE": "kfar netter",
+  "PriceDayTo": 230,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 230,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668fe"
+  },
+  "Name": "קרית יערים",
+  "NameE": "kiriyat yearim",
+  "PriceDayTo": 220,
+  "PriceNightTo": 240,
+  "PriceDayFrom": 220,
+  "PriceNightFrom": 240
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be5668ff"
+  },
+  "Name": "נוף איילון",
+  "NameE": "nof ayalon",
+  "PriceDayTo": 155,
+  "PriceNightTo": 165,
+  "PriceDayFrom": 160,
+  "PriceNightFrom": 170
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566900"
+  },
+  "Name": "עדנים",
+  "NameE": "adanym",
+  "PriceDayTo": 150,
+  "PriceNightTo": 165,
+  "PriceDayFrom": 150,
+  "PriceNightFrom": 165
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566901"
+  },
+  "Name": "צלפון",
+  "NameE": "tzelafon",
+  "PriceDayTo": 170,
+  "PriceNightTo": 180,
+  "PriceDayFrom": 170,
+  "PriceNightFrom": 180
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566902"
+  },
+  "Name": "משמר איילון",
+  "NameE": "mishmar ayalon",
+  "PriceDayTo": 160,
+  "PriceNightTo": 170,
+  "PriceDayFrom": 160,
+  "PriceNightFrom": 170
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566903"
+  },
+  "Name": "כפר ורדים",
+  "NameE": "kfar vradim",
+  "PriceDayTo": 500,
+  "PriceNightTo": 500,
+  "PriceDayFrom": 510,
+  "PriceNightFrom": 510
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566904"
+  },
+  "Name": "מגל",
+  "NameE": "magal",
+  "PriceDayTo": 280,
+  "PriceNightTo": 280,
+  "PriceDayFrom": 280,
+  "PriceNightFrom": 280
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566905"
+  },
+  "Name": "מאור",
+  "NameE": "maor",
+  "PriceDayTo": 300,
+  "PriceNightTo": 320,
+  "PriceDayFrom": 300,
+  "PriceNightFrom": 320
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566906"
+  },
+  "Name": "שדה יצחק",
+  "NameE": "itzhak field",
+  "PriceDayTo": 300,
+  "PriceNightTo": 325,
+  "PriceDayFrom": 300,
+  "PriceNightFrom": 325
+},
+{
+  "_id": {
+    "$oid": "655a6a87a8fc2a61be566907"
+  },
+  "Name": "פורים עילית",
+  "NameE": "itzhak field",
+  "PriceDayTo": 500,
+  "PriceNightTo": 520,
+  "PriceDayFrom": 500,
+  "PriceNightFrom": 520
+}]
