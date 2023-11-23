@@ -171,7 +171,8 @@ Name:'חיפה',
 PriceDayTo:'400' ,
 PriceNightTo:'400' ,
 PriceDayFrom:'415' ,
-PriceNightFrom:'415'
+PriceNightFrom:'415',
+fivePlus: '200'
 },
 {
 Name:'עכו',
