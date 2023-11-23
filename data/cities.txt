@@ -15,7 +15,7 @@ PriceDayTo:'135' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
 PriceNightFrom:'155',
-fivePlus: '110'
+fivePlus: '90'
 },
 {
 Name:'רמת גן  ',
