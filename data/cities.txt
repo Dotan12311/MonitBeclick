@@ -24,7 +24,7 @@ PriceDayTo:'135 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
 PriceNightFrom:'160',
-fivePlus: '110'
+fivePlus: '85'
 },
 {
 Name:'גבעתיים ',
@@ -33,7 +33,7 @@ PriceDayTo:'140 ' ,
 PriceNightTo:'145 ' ,
 PriceDayFrom:'150 ' ,
 PriceNightFrom:'160 ',
-fivePlus: '110'
+fivePlus: '85'
 },
 {
 Name:'בני ברק ',
