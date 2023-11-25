@@ -95,10 +95,10 @@ PriceNightFrom:' 185'
 {
 Name:'הוד השרון ',
 	NameE:'hod haSharon',
-PriceDayTo:'160 ' ,
+PriceDayTo:'155 ' ,
 PriceNightTo:'165 ' ,
-PriceDayFrom:'165 ' ,
-PriceNightFrom:'170 '
+PriceDayFrom:'160 ' ,
+PriceNightFrom:'165 '
 },
 {
 Name:'רעננה ',
