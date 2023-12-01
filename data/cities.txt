@@ -11,7 +11,7 @@ fivePlus: '100'
 {
 Name:'תל אביב  ',
 	NameE:'tel aviv',
-PriceDayTo:'135' ,
+PriceDayTo:'130' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
 PriceNightFrom:'155',
@@ -20,7 +20,7 @@ fivePlus: '90'
 {
 Name:'רמת גן  ',
 	NameE:'ramat gan',
-PriceDayTo:'135 ' ,
+PriceDayTo:'130 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
 PriceNightFrom:'160',
@@ -29,8 +29,8 @@ fivePlus: '85'
 {
 Name:'גבעתיים ',
 	NameE:'givatayim',
-PriceDayTo:'140 ' ,
-PriceNightTo:'145 ' ,
+PriceDayTo:'130 ' ,
+PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
 PriceNightFrom:'160 ',
 fivePlus: '85'
@@ -38,18 +38,18 @@ fivePlus: '85'
 {
 Name:'בני ברק ',
 	NameE:'bnei brak',
-PriceDayTo:'140 ' ,
-PriceNightTo:'145 ' ,
+PriceDayTo:'130 ' ,
+PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'150 '
+PriceNightFrom:'155 '
 },
 {
 Name:'גבעת שמואל ',
 	NameE:"giv'at shmuel",
-PriceDayTo:'135 ' ,
+PriceDayTo:'130 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'150 ',
+PriceNightFrom:'155 ',
 fivePlus: '110'
 },
 {
@@ -119,7 +119,7 @@ PriceNightFrom:'185 '
 {
 Name:'נתניה ',
 	NameE:'netania',
-PriceDayTo:'230 ' ,
+PriceDayTo:'225 ' ,
 PriceNightTo:' 240' ,
 PriceDayFrom:'240 ' ,
 PriceNightFrom:'240 '
