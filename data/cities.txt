@@ -14,7 +14,7 @@ Name:'תל אביב  ',
 PriceDayTo:'130' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
-PriceNightFrom:'155',
+PriceNightFrom:'160',
 fivePlus: '90'
 },
 {
@@ -23,7 +23,7 @@ Name:'רמת גן  ',
 PriceDayTo:'130 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'160',
+PriceNightFrom:'155',
 fivePlus: '85'
 },
 {
@@ -32,7 +32,7 @@ Name:'גבעתיים ',
 PriceDayTo:'130 ' ,
 PriceNightTo:'140 ' ,
 PriceDayFrom:'150 ' ,
-PriceNightFrom:'160 ',
+PriceNightFrom:'155 ',
 fivePlus: '85'
 },
 {
