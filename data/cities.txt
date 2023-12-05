@@ -342,10 +342,10 @@ PriceNightFrom:'150'
 {
 Name:'בית שמש',
 	NameE:'beth shemesh',
-PriceDayTo:'220' ,
-PriceNightTo:'225' ,
-PriceDayFrom:'230' ,
-PriceNightFrom:'240'
+PriceDayTo:'180' ,
+PriceNightTo:'200' ,
+PriceDayFrom:'190' ,
+PriceNightFrom:'205'
 },
 {
 Name:'בית אל',
