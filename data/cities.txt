@@ -257,7 +257,7 @@ PriceNightFrom:'250'
 {
 Name:'ראשון לציון',
 	NameE:'rishon le zion',
-PriceDayTo:'140' ,
+PriceDayTo:'130' ,
 PriceNightTo:'140' ,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150',
