@@ -1,0 +1,597 @@
+[
+  {
+    "city": "אבן יהודה",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "אופקים",
+    "priceDayTo": 400,
+    "priceNightTo": 480,
+    "priceDayFrom": 400,
+    "priceNightFrom": 480
+  },
+  {
+    "city": "אור יהודה",
+    "priceDayTo": 100,
+    "priceNightTo": 110,
+    "priceDayFrom": 100,
+    "priceNightFrom": 120
+  },
+  {
+    "city": "אור עקיבא",
+    "priceDayTo": 300,
+    "priceNightTo": 300,
+    "priceDayFrom": 300,
+    "priceNightFrom": 300
+  },
+  {
+    "city": "אלישמע",
+    "priceDayTo": 160,
+    "priceNightTo": 170,
+    "priceDayFrom": 170,
+    "priceNightFrom": 190
+  },
+  {
+    "city": "אלפי מנשה",
+    "priceDayTo": 200,
+    "priceNightTo": 220,
+    "priceDayFrom": 200,
+    "priceNightFrom": 220
+  },
+  {
+    "city": "אריאל",
+    "priceDayTo": 230,
+    "priceNightTo": 270,
+    "priceDayFrom": 245,
+    "priceNightFrom": 285
+  },
+  {
+    "city": "ארסוף",
+    "priceDayTo": 210,
+    "priceNightTo": 230,
+    "priceDayFrom": 215,
+    "priceNightFrom": 235
+  },
+  {
+    "city": "אשדוד",
+    "priceDayTo": 230,
+    "priceNightTo": 250,
+    "priceDayFrom": 230,
+    "priceNightFrom": 250
+  },
+  {
+    "city": "אשקלון",
+    "priceDayTo": 300,
+    "priceNightTo": 330,
+    "priceDayFrom": 300,
+    "priceNightFrom": 330
+  },
+  {
+    "city": "באר יעקב",
+    "priceDayTo": 125,
+    "priceNightTo": 135,
+    "priceDayFrom": 135,
+    "priceNightFrom": 140
+  },
+  {
+    "city": "באר שבע",
+    "priceDayTo": 400,
+    "priceNightTo": 480,
+    "priceDayFrom": 400,
+    "priceNightFrom": 480
+  },
+  {
+    "city": "בארותיים",
+    "priceDayTo": 245,
+    "priceNightTo": 265,
+    "priceDayFrom": 250,
+    "priceNightFrom": 270
+  },
+  {
+    "city": "בורגתה",
+    "priceDayTo": 250,
+    "priceNightTo": 270,
+    "priceDayFrom": 250,
+    "priceNightFrom": 270
+  },
+  {
+    "city": "ביצרון",
+    "priceDayTo": 210,
+    "priceNightTo": 230,
+    "priceDayFrom": 215,
+    "priceNightFrom": 235
+  },
+  {
+    "city": "בחן",
+    "priceDayTo": 250,
+    "priceNightTo": 270,
+    "priceDayFrom": 255,
+    "priceNightFrom": 280
+  },
+  {
+    "city": "בית דגן",
+    "priceDayTo": 100,
+    "priceNightTo": 120,
+    "priceDayFrom": 100,
+    "priceNightFrom": 120
+  },
+  {
+    "city": "בית שמש",
+    "priceDayTo": 180,
+    "priceNightTo": 200,
+    "priceDayFrom": 190,
+    "priceNightFrom": 210
+  },
+  {
+    "city": "בני ברק",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 135,
+    "priceNightFrom": 145
+  },
+  {
+    "city": "בני דרום",
+    "priceDayTo": 190,
+    "priceNightTo": 210,
+    "priceDayFrom": 190,
+    "priceNightFrom": 210
+  },
+  {
+    "city": "בנימינה - גבעת עדה",
+    "priceDayTo": 300,
+    "priceNightTo": 300,
+    "priceDayFrom": 300,
+    "priceNightFrom": 300
+  },
+  {
+    "city": "בצרה",
+    "priceDayTo": 210,
+    "priceNightTo": 235,
+    "priceDayFrom": 215,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "בת ים",
+    "priceDayTo": 135,
+    "priceNightTo": 145,
+    "priceDayFrom": 145,
+    "priceNightFrom": 155
+  },
+  {
+    "city": "גבעתיים",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 150,
+    "priceNightFrom": 160
+  },
+  {
+    "city": "גדרה",
+    "priceDayTo": 165,
+    "priceNightTo": 185,
+    "priceDayFrom": 185,
+    "priceNightFrom": 200
+  },
+  {
+    "city": "גן יבנה",
+    "priceDayTo": 210,
+    "priceNightTo": 230,
+    "priceDayFrom": 225,
+    "priceNightFrom": 235
+  },
+  {
+    "city": "דימונה",
+    "priceDayTo": 540,
+    "priceNightTo": 660,
+    "priceDayFrom": 540,
+    "priceNightFrom": 660
+  },
+  {
+    "city": "הרצליה",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 175,
+    "priceNightFrom": 185
+  },
+  {
+    "city": "זכרון יעקב",
+    "priceDayTo": 330,
+    "priceNightTo": 330,
+    "priceDayFrom": 330,
+    "priceNightFrom": 330
+  },
+  {
+    "city": "חבצלת השרון",
+    "priceDayTo": 260,
+    "priceNightTo": 280,
+    "priceDayFrom": 260,
+    "priceNightFrom": 280
+  },
+  {
+    "city": "חדרה",
+    "priceDayTo": 280,
+    "priceNightTo": 280,
+    "priceDayFrom": 280,
+    "priceNightFrom": 280
+  },
+  {
+    "city": "חולון",
+    "priceDayTo": 125,
+    "priceNightTo": 135,
+    "priceDayFrom": 140,
+    "priceNightFrom": 150
+  },
+  {
+    "city": "חולדה",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 170,
+    "priceNightFrom": 180
+  },
+  {
+    "city": "חצב",
+    "priceDayTo": 190,
+    "priceNightTo": 210,
+    "priceDayFrom": 210,
+    "priceNightFrom": 230
+  },
+  {
+    "city": "חשמונאים",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 140,
+    "priceNightFrom": 150
+  },
+  {
+    "city": "טבריה",
+    "priceDayTo": 480,
+    "priceNightTo": 480,
+    "priceDayFrom": 480,
+    "priceNightFrom": 480
+  },
+  {
+    "city": "טירת הכרמל",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "טל שחר",
+    "priceDayTo": 180,
+    "priceNightTo": 180,
+    "priceDayFrom": 185,
+    "priceNightFrom": 200
+  },
+  {
+    "city": "יבנה",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 185,
+    "priceNightFrom": 200
+  },
+  {
+    "city": "יד בנימין",
+    "priceDayTo": 180,
+    "priceNightTo": 200,
+    "priceDayFrom": 200,
+    "priceNightFrom": 220
+  },
+  {
+    "city": "יהוד-מונוסון",
+    "priceDayTo": 100,
+    "priceNightTo": 110,
+    "priceDayFrom": 100,
+    "priceNightFrom": 110
+  },
+  {
+    "city": "יקנעם",
+    "priceDayTo": 350,
+    "priceNightTo": 350,
+    "priceDayFrom": 350,
+    "priceNightFrom": 350
+  },
+  {
+    "city": "ירושלים",
+    "priceDayTo": 220,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 250
+  },
+  {
+    "city": "כוכב יאיר",
+    "priceDayTo": 200,
+    "priceNightTo": 220,
+    "priceDayFrom": 215,
+    "priceNightFrom": 235
+  },
+  {
+    "city": "כפר הס",
+    "priceDayTo": 230,
+    "priceNightTo": 250,
+    "priceDayFrom": 230,
+    "priceNightFrom": 250
+  },
+  {
+    "city": "כפר ויתקין",
+    "priceDayTo": 260,
+    "priceNightTo": 280,
+    "priceDayFrom": 260,
+    "priceNightFrom": 280
+  },
+  {
+    "city": "כפר מונש",
+    "priceDayTo": 250,
+    "priceNightTo": 270,
+    "priceDayFrom": 250,
+    "priceNightFrom": 270
+  },
+  {
+    "city": "כפר נטר",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "כפר סבא",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 175,
+    "priceNightFrom": 185
+  },
+  {
+    "city": "כרמיאל",
+    "priceDayTo": 460,
+    "priceNightTo": 460,
+    "priceDayFrom": 460,
+    "priceNightFrom": 460
+  },
+  {
+    "city": "מודיעין",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 140,
+    "priceNightFrom": 150
+  },
+  {
+    "city": "מזכרת בתיה",
+    "priceDayTo": 150,
+    "priceNightTo": 160,
+    "priceDayFrom": 175,
+    "priceNightFrom": 185
+  },
+  {
+    "city": "מעגן מיכאל",
+    "priceDayTo": 330,
+    "priceNightTo": 330,
+    "priceDayFrom": 330,
+    "priceNightFrom": 330
+  },
+  {
+    "city": "מעלה אדומים",
+    "priceDayTo": 280,
+    "priceNightTo": 310,
+    "priceDayFrom": 310,
+    "priceNightFrom": 310
+  },
+  {
+    "city": "מעלות תרשיחא",
+    "priceDayTo": 500,
+    "priceNightTo": 500,
+    "priceDayFrom": 500,
+    "priceNightFrom": 500
+  },
+  {
+    "city": "נהריה",
+    "priceDayTo": 480,
+    "priceNightTo": 480,
+    "priceDayFrom": 480,
+    "priceNightFrom": 480
+  },
+  {
+    "city": "נורדיה",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "נס ציונה",
+    "priceDayTo": 135,
+    "priceNightTo": 145,
+    "priceDayFrom": 145,
+    "priceNightFrom": 155
+  },
+  {
+    "city": "נצרת",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "נתיבות",
+    "priceDayTo": 350,
+    "priceNightTo": 420,
+    "priceDayFrom": 350,
+    "priceNightFrom": 420
+  },
+  {
+    "city": "נתניה",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "עכו",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "עמק חפר",
+    "priceDayTo": 240,
+    "priceNightTo": 260,
+    "priceDayFrom": 240,
+    "priceNightFrom": 260
+  },
+  {
+    "city": "עפולה",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "פרדס חנה",
+    "priceDayTo": 300,
+    "priceNightTo": 300,
+    "priceDayFrom": 300,
+    "priceNightFrom": 300
+  },
+  {
+    "city": "פתח תקווה",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 140,
+    "priceNightFrom": 150
+  },
+  {
+    "city": "קדימה-צורן",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  },
+  {
+    "city": "קיסריה",
+    "priceDayTo": 300,
+    "priceNightTo": 300,
+    "priceDayFrom": 300,
+    "priceNightFrom": 300
+  },
+  {
+    "city": "קרית אונו",
+    "priceDayTo": 125,
+    "priceNightTo": 135,
+    "priceDayFrom": 135,
+    "priceNightFrom": 145
+  },
+  {
+    "city": "קרית אתא",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "קרית מלאכי",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 240,
+    "priceNightFrom": 250
+  },
+  {
+    "city": "קרית עקרון",
+    "priceDayTo": 140,
+    "priceNightTo": 150,
+    "priceDayFrom": 150,
+    "priceNightFrom": 160
+  },
+  {
+    "city": "קרית שמונה",
+    "priceDayTo": 700,
+    "priceNightTo": 700,
+    "priceDayFrom": 700,
+    "priceNightFrom": 700
+  },
+  {
+    "city": "ראש פינה",
+    "priceDayTo": 640,
+    "priceNightTo": 640,
+    "priceDayFrom": 640,
+    "priceNightFrom": 640
+  },
+  {
+    "city": "ראשון לציון",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 140,
+    "priceNightFrom": 150
+  },
+  {
+    "city": "רמות השבים",
+    "priceDayTo": 160,
+    "priceNightTo": 170,
+    "priceDayFrom": 165,
+    "priceNightFrom": 175
+  },
+  {
+    "city": "רמלה",
+    "priceDayTo": 115,
+    "priceNightTo": 125,
+    "priceDayFrom": 120,
+    "priceNightFrom": 130
+  },
+  {
+    "city": "רמת השרון",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 175,
+    "priceNightFrom": 185
+  },
+  {
+    "city": "רעננה",
+    "priceDayTo": 170,
+    "priceNightTo": 180,
+    "priceDayFrom": 175,
+    "priceNightFrom": 185
+  },
+  {
+    "city": "רשפון",
+    "priceDayTo": 180,
+    "priceNightTo": 190,
+    "priceDayFrom": 200,
+    "priceNightFrom": 210
+  },
+  {
+    "city": "שדה ורבורג",
+    "priceDayTo": 190,
+    "priceNightTo": 200,
+    "priceDayFrom": 200,
+    "priceNightFrom": 210
+  },
+  {
+    "city": "שדרות",
+    "priceDayTo": 340,
+    "priceNightTo": 400,
+    "priceDayFrom": 340,
+    "priceNightFrom": 400
+  },
+  {
+    "city": "תל אביב-יפו",
+    "priceDayTo": 130,
+    "priceNightTo": 140,
+    "priceDayFrom": 150,
+    "priceNightFrom": 160
+  },
+  {
+    "city": "תל אביב -צפון",
+    "priceDayTo": 140,
+    "priceNightTo": 150,
+    "priceDayFrom": 155,
+    "priceNightFrom": 165
+  },
+  {
+    "city": "תל מונד",
+    "priceDayTo": 230,
+    "priceNightTo": 240,
+    "priceDayFrom": 230,
+    "priceNightFrom": 240
+  }
+]
