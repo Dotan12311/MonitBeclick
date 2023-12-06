@@ -416,8 +416,8 @@ Name:'לוד',
 	NameE:'lod',
 PriceDayTo:'95' ,
 PriceNightTo:'100' ,
-PriceDayFrom:'90' ,
-PriceNightFrom:'115'
+PriceDayFrom:'100' ,
+PriceNightFrom:'110'
 },
 {
 Name:'שוהם',
