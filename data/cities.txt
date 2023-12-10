@@ -1184,4 +1184,22 @@ PriceDayFrom:500 ,
 PriceNightFrom:520
 },
 
+{
+Name:'חצב',
+	NameE:'hazav',
+PriceDayTo:'205' ,
+PriceNightTo:'220' ,
+PriceDayFrom:220 ,
+PriceNightFrom:230
+},
+
+{
+Name:'אור עקיבא',
+	NameE:'orAkiba',
+PriceDayTo:'300' ,
+PriceNightTo:'310' ,
+PriceDayFrom:310 ,
+PriceNightFrom:310
+},
+
 ]
