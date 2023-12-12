@@ -241,9 +241,9 @@ PriceNightFrom:'345'
 {
 Name:'אשקלון',
 	NameE:'ashkelon',
-PriceDayTo:'310' ,
+PriceDayTo:'300' ,
 PriceNightTo:'330' ,
-PriceDayFrom:'320' ,
+PriceDayFrom:'300' ,
 PriceNightFrom:'330'
 },
 {
