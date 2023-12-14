@@ -231,6 +231,13 @@
     "priceNightFrom": 180
   },
   {
+    "city": "חיפה",
+    "priceDayTo": 400,
+    "priceNightTo": 400,
+    "priceDayFrom": 400,
+    "priceNightFrom": 400
+  },
+  {
     "city": "חצב",
     "priceDayTo": 190,
     "priceNightTo": 210,
@@ -525,6 +532,13 @@
     "priceNightFrom": 150
   },
   {
+    "city": "רחובות",
+    "priceDayTo": 135,
+    "priceNightTo": 145,
+    "priceDayFrom": 145,
+    "priceNightFrom": 155
+  },
+  {
     "city": "רמות השבים",
     "priceDayTo": 160,
     "priceNightTo": 170,
@@ -574,14 +588,14 @@
     "priceNightFrom": 400
   },
   {
-    "city": "תל אביב-יפו",
+    "city": "תל אביב",
     "priceDayTo": 130,
     "priceNightTo": 140,
     "priceDayFrom": 150,
     "priceNightFrom": 160
   },
   {
-    "city": "תל אביב -צפון",
+    "city": "תל אביב צפון",
     "priceDayTo": 140,
     "priceNightTo": 150,
     "priceDayFrom": 155,
