@@ -135,10 +135,10 @@ PriceNightFrom:'285 '
 {
 Name:'קיסריה ',
 	NameE:'caesarea',
-PriceDayTo:'310 ' ,
-PriceNightTo:'310 ' ,
-PriceDayFrom:'320 ' ,
-PriceNightFrom:'320 '
+PriceDayTo:'300 ' ,
+PriceNightTo:'300 ' ,
+PriceDayFrom:'300 ' ,
+PriceNightFrom:'300 '
 },
 {
 Name:'בנימינה ',
@@ -170,8 +170,8 @@ Name:'חיפה',
 	NameE:'haifa',
 PriceDayTo:'400' ,
 PriceNightTo:'400' ,
-PriceDayFrom:'415' ,
-PriceNightFrom:'415',
+PriceDayFrom:'400' ,
+PriceNightFrom:'400',
 fivePlus: '200'
 },
 {
@@ -266,9 +266,9 @@ fivePlus: '110'
 {
 Name:'בת ים',
 	NameE:'bat yam',
-PriceDayTo:'135' ,
-PriceNightTo:'145' ,
-PriceDayFrom:'145' ,
+PriceDayTo:'130' ,
+PriceNightTo:'140' ,
+PriceDayFrom:'150' ,
 PriceNightFrom:'150',
 fivePlus: '100'
 },
