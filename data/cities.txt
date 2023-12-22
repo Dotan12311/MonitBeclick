@@ -968,9 +968,9 @@ PriceNightFrom:'420'
 {
 Name:'חולון',
 	NameE:'holon',
-PriceDayTo:135,
-PriceNightTo: 135,
-PriceDayFrom:'150' ,
+PriceDayTo:125,
+PriceNightTo: 130,
+PriceDayFrom:'145' ,
 PriceNightFrom:'150',
 fivePlus: '85'
 },
