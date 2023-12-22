@@ -258,7 +258,7 @@ PriceNightFrom:'250'
 Name:'ראשון לציון',
 	NameE:'rishon le zion',
 PriceDayTo:'130' ,
-PriceNightTo:'140' ,
+PriceNightTo:'135' ,
 PriceDayFrom:'150' ,
 PriceNightFrom:'150',
 fivePlus: '110'
